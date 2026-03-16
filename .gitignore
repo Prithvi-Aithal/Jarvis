@@ -1,0 +1,4 @@
+frontend/node_modules/
+frontend/.env
+frontend/tsc_errors.txt
+frontend/tsc_output.txt

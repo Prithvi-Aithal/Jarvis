@@ -1,0 +1,2161 @@
+timestamp,app,duration_seconds,source
+2026-03-15 11:30:50.839749,Home Screen,5,phone
+2026-03-15 11:30:55.371482,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 11:30:55.949691,Home Screen,5,phone
+2026-03-15 11:31:00.373048,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 11:31:01.043347,Home Screen,5,phone
+2026-03-15 11:31:05.374958,C:\Windows\System32\cmd.exe - npm  run dev,5,pc
+2026-03-15 11:31:06.197386,Home Screen,5,phone
+2026-03-15 11:31:10.377539,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 11:31:11.335153,Home Screen,5,phone
+2026-03-15 11:31:15.379578,weal - Google Chrome,5,pc
+2026-03-15 11:31:16.531956,Home Screen,5,phone
+2026-03-15 11:31:20.381301,weal - Google Chrome,5,pc
+2026-03-15 11:31:21.639582,Home Screen,5,phone
+2026-03-15 11:31:25.384242,weal - Google Chrome,5,pc
+2026-03-15 11:31:26.741544,Home Screen,5,phone
+2026-03-15 11:31:30.385929,weal - Google Chrome,5,pc
+2026-03-15 11:31:31.869308,Home Screen,5,phone
+2026-03-15 11:31:35.387993,weal - Google Chrome,5,pc
+2026-03-15 11:31:36.967409,Home Screen,5,phone
+2026-03-15 11:31:40.389066,weal - Google Chrome,5,pc
+2026-03-15 11:31:42.071566,Home Screen,5,phone
+2026-03-15 11:31:45.390219,weal - Google Chrome,5,pc
+2026-03-15 11:31:47.173796,Home Screen,5,phone
+2026-03-15 11:31:50.391636,weal - Google Chrome,5,pc
+2026-03-15 11:31:52.278603,Home Screen,5,phone
+2026-03-15 11:31:55.393433,weal - Google Chrome,5,pc
+2026-03-15 11:31:57.383297,Home Screen,5,phone
+2026-03-15 11:32:00.410880,weal - Google Chrome,5,pc
+2026-03-15 11:32:02.468794,Home Screen,5,phone
+2026-03-15 11:32:05.412202,weal - Google Chrome,5,pc
+2026-03-15 11:32:07.574900,Home Screen,5,phone
+2026-03-15 11:32:10.413537,weal - Google Chrome,5,pc
+2026-03-15 11:32:12.678547,Home Screen,5,phone
+2026-03-15 11:32:15.414939,weal - Google Chrome,5,pc
+2026-03-15 11:32:17.783539,Home Screen,5,phone
+2026-03-15 11:32:20.416272,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:32:22.886637,Home Screen,5,phone
+2026-03-15 11:32:25.417921,Open,5,pc
+2026-03-15 11:32:27.988621,Home Screen,5,phone
+2026-03-15 11:32:30.419864,Open,5,pc
+2026-03-15 11:32:33.097381,Home Screen,5,phone
+2026-03-15 11:32:35.430625,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:32:38.200602,Home Screen,5,phone
+2026-03-15 11:32:40.439276,Nessa Barrett - la di die (feat. Jaden Hossler) - Acoustic,5,pc
+2026-03-15 11:32:43.298463,Home Screen,5,phone
+2026-03-15 11:32:45.441064,Swedish House Mafia - Moth To A Flame (with The Weeknd),5,pc
+2026-03-15 11:32:48.539530,Home Screen,5,phone
+2026-03-15 11:32:50.442486,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:32:53.642593,Home Screen,5,phone
+2026-03-15 11:32:55.444170,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:32:58.744434,Home Screen,5,phone
+2026-03-15 11:33:00.446345,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:33:03.848412,Home Screen,5,phone
+2026-03-15 11:33:05.447851,WhatsApp - Google Chrome,5,pc
+2026-03-15 11:33:08.950717,Home Screen,5,phone
+2026-03-15 11:33:10.449308,Unknown,5,pc
+2026-03-15 11:33:14.054112,Home Screen,5,phone
+2026-03-15 11:33:15.451331,weal - Google Chrome,5,pc
+2026-03-15 11:33:19.160252,Home Screen,5,phone
+2026-03-15 11:33:20.453063,weal - Google Chrome,5,pc
+2026-03-15 11:33:24.315410,WhatsApp,5,phone
+2026-03-15 11:33:25.454957,weal - Google Chrome,5,pc
+2026-03-15 11:33:29.451415,WhatsApp,5,phone
+2026-03-15 11:33:30.457284,weal - Google Chrome,5,pc
+2026-03-15 11:33:34.597141,WhatsApp,5,phone
+2026-03-15 11:33:35.458870,weal - Google Chrome,5,pc
+2026-03-15 11:33:39.716782,WhatsApp,5,phone
+2026-03-15 11:33:40.460612,weal - Google Chrome,5,pc
+2026-03-15 11:33:44.847875,Home Screen,5,phone
+2026-03-15 11:33:45.462191,weal - Google Chrome,5,pc
+2026-03-15 11:33:49.945638,Home Screen,5,phone
+2026-03-15 11:33:50.464031,weal - Google Chrome,5,pc
+2026-03-15 11:33:55.115969,Home Screen,5,phone
+2026-03-15 11:33:55.465498,weal - Google Chrome,5,pc
+2026-03-15 11:34:00.277620,Home Screen,5,phone
+2026-03-15 11:34:00.467148,weal - Google Chrome,5,pc
+2026-03-15 11:34:05.445982,Home Screen,5,phone
+2026-03-15 11:34:05.469016,Unknown,5,pc
+2026-03-15 11:34:10.470947,Unknown,5,pc
+2026-03-15 12:25:07.482707,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 12:25:12.484225,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 12:25:17.486112,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 12:25:22.488177,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 12:25:27.489790,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 12:25:32.491886,weal - Google Chrome,5,pc
+2026-03-15 12:25:37.494285,weal - Google Chrome,5,pc
+2026-03-15 12:25:42.497105,weal - Google Chrome,5,pc
+2026-03-15 12:25:47.500117,weal - Google Chrome,5,pc
+2026-03-15 12:25:52.501856,weal - Google Chrome,5,pc
+2026-03-15 12:25:57.509856,weal - Google Chrome,5,pc
+2026-03-15 12:26:02.511608,weal - Google Chrome,5,pc
+2026-03-15 12:26:07.513309,weal - Google Chrome,5,pc
+2026-03-15 12:26:12.515214,weal - Google Chrome,5,pc
+2026-03-15 12:26:15.612465,[Phone] Instagram,5,phone
+2026-03-15 12:26:17.516800,weal - Google Chrome,5,pc
+2026-03-15 12:26:20.812224,[Phone] Instagram,5,phone
+2026-03-15 12:26:22.526001,weal - Google Chrome,5,pc
+2026-03-15 12:26:26.042764,[Phone] Instagram,5,phone
+2026-03-15 12:26:27.541242,New Tab - Google Chrome,5,pc
+2026-03-15 12:26:31.310300,[Phone] Instagram,5,phone
+2026-03-15 12:26:32.543161,New Tab - Google Chrome,5,pc
+2026-03-15 12:26:36.575487,[Phone] Instagram,5,phone
+2026-03-15 12:26:37.544750,New Tab - Google Chrome,5,pc
+2026-03-15 12:26:41.836151,[Phone] Instagram,5,phone
+2026-03-15 12:26:42.546969,New Tab - Google Chrome,5,pc
+2026-03-15 12:26:47.077886,[Phone] Instagram,5,phone
+2026-03-15 12:26:47.548665,google ai studio - Google Search - Google Chrome,5,pc
+2026-03-15 12:26:52.339030,[Phone] Instagram,5,phone
+2026-03-15 12:26:52.550128,Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:26:57.552342,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:26:57.682410,[Phone] Instagram,5,phone
+2026-03-15 12:27:02.557867,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:05.183193,[Phone] Instagram,5,phone
+2026-03-15 12:27:07.559595,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:10.439050,[Phone] Instagram,5,phone
+2026-03-15 12:27:12.561599,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:15.693702,[Phone] Instagram,5,phone
+2026-03-15 12:27:17.563712,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:20.958805,[Phone] Instagram,5,phone
+2026-03-15 12:27:22.564845,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:26.239120,[Phone] Instagram,5,phone
+2026-03-15 12:27:27.566550,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:31.475291,[Phone] Instagram,5,phone
+2026-03-15 12:27:32.568720,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:36.783976,[Phone] Instagram,5,phone
+2026-03-15 12:27:37.571010,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:42.047672,[Phone] Instagram,5,phone
+2026-03-15 12:27:42.572971,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:47.431753,[Phone] Instagram,5,phone
+2026-03-15 12:27:47.575628,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:52.577809,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:52.716215,[Phone] Instagram,5,phone
+2026-03-15 12:27:57.581088,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:27:58.079788,[Phone] Instagram,5,phone
+2026-03-15 12:28:02.585126,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 12:28:03.326847,[Phone] Instagram,5,phone
+2026-03-15 12:28:07.599577,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:10.746724,[Phone] Instagram,5,phone
+2026-03-15 12:28:12.600669,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:16.000429,[Phone] Instagram,5,phone
+2026-03-15 12:28:17.601872,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:21.283437,[Phone] Instagram,5,phone
+2026-03-15 12:28:22.603328,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:26.531293,[Phone] Instagram,5,phone
+2026-03-15 12:28:27.605385,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:31.793592,[Phone] Instagram,5,phone
+2026-03-15 12:28:32.606945,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:37.044295,[Phone] Instagram,5,phone
+2026-03-15 12:28:37.608790,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:42.330922,[Phone] Instagram,5,phone
+2026-03-15 12:28:42.610517,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:47.612418,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:47.616464,[Phone] Instagram,5,phone
+2026-03-15 12:28:52.614588,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:52.870443,[Phone] Instagram,5,phone
+2026-03-15 12:28:57.616631,? .env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:28:58.179217,[Phone] Instagram,5,phone
+2026-03-15 12:29:02.618325,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:29:03.441485,[Phone] Instagram,5,phone
+2026-03-15 12:29:07.620200,Unknown,5,pc
+2026-03-15 12:29:08.699943,[Phone] Instagram,5,phone
+2026-03-15 12:29:12.622379,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 12:29:16.044215,[Phone] Instagram,5,phone
+2026-03-15 12:29:17.624042,weal - Google Chrome,5,pc
+2026-03-15 12:29:21.335166,[Phone] Instagram,5,phone
+2026-03-15 12:29:22.625164,weal - Google Chrome,5,pc
+2026-03-15 12:29:26.607751,[Phone] Instagram,5,phone
+2026-03-15 12:29:27.627754,Open,5,pc
+2026-03-15 12:29:31.887597,[Phone] Instagram,5,phone
+2026-03-15 12:29:32.629453,Open,5,pc
+2026-03-15 12:29:37.198555,[Phone] Instagram,5,phone
+2026-03-15 12:29:37.631332,Open,5,pc
+2026-03-15 12:29:42.461726,[Phone] Instagram,5,phone
+2026-03-15 12:29:42.632787,weal - Google Chrome,5,pc
+2026-03-15 12:29:47.754886,[Phone] Instagram,5,phone
+2026-03-15 12:29:47.758714,weal - Google Chrome,5,pc
+2026-03-15 12:29:52.760752,weal - Google Chrome,5,pc
+2026-03-15 12:29:52.957244,[Phone] Instagram,5,phone
+2026-03-15 12:29:57.763274,weal - Google Chrome,5,pc
+2026-03-15 12:29:58.146082,[Phone] Instagram,5,phone
+2026-03-15 12:30:02.765005,Google Gemini - Google Chrome,5,pc
+2026-03-15 12:30:03.423814,[Phone] Instagram,5,phone
+2026-03-15 12:30:07.766591,weal - Google Chrome,5,pc
+2026-03-15 12:30:08.708322,[Phone] Instagram,5,phone
+2026-03-15 12:30:12.768891,weal - Google Chrome,5,pc
+2026-03-15 12:30:14.157065,[Phone] Instagram,5,phone
+2026-03-15 12:30:17.770949,weal - Google Chrome,5,pc
+2026-03-15 12:30:21.455061,[Phone] Instagram,5,phone
+2026-03-15 12:30:22.772644,weal - Google Chrome,5,pc
+2026-03-15 12:30:26.709888,[Phone] Instagram,5,phone
+2026-03-15 12:30:27.774699,weal - Google Chrome,5,pc
+2026-03-15 12:30:31.973555,[Phone] Instagram,5,phone
+2026-03-15 12:30:32.776236,weal - Google Chrome,5,pc
+2026-03-15 12:30:37.203166,[Phone] Instagram,5,phone
+2026-03-15 12:30:37.778498,Spotify Premium,5,pc
+2026-03-15 12:30:42.495352,[Phone] Instagram,5,phone
+2026-03-15 12:30:42.780211,weal - Google Chrome,5,pc
+2026-03-15 12:30:47.778170,[Phone] Instagram,5,phone
+2026-03-15 12:30:47.781776,weal - Google Chrome,5,pc
+2026-03-15 12:30:52.783562,weal - Google Chrome,5,pc
+2026-03-15 12:30:53.059046,[Phone] Instagram,5,phone
+2026-03-15 12:30:57.785688,weal - Google Chrome,5,pc
+2026-03-15 12:30:58.286942,[Phone] Instagram,5,phone
+2026-03-15 12:31:02.786881,weal - Google Chrome,5,pc
+2026-03-15 12:31:03.544645,[Phone] Instagram,5,phone
+2026-03-15 12:31:07.788931,weal - Google Chrome,5,pc
+2026-03-15 12:31:08.823481,[Phone] Instagram,5,phone
+2026-03-15 12:31:12.790957,weal - Google Chrome,5,pc
+2026-03-15 12:31:14.066694,[Phone] Instagram,5,phone
+2026-03-15 12:31:17.792865,weal - Google Chrome,5,pc
+2026-03-15 12:31:19.300761,[Phone] Instagram,5,phone
+2026-03-15 12:31:22.794969,weal - Google Chrome,5,pc
+2026-03-15 12:31:26.629123,[Phone] Instagram,5,phone
+2026-03-15 12:31:27.796127,weal - Google Chrome,5,pc
+2026-03-15 12:31:31.864781,[Phone] Instagram,5,phone
+2026-03-15 12:31:32.798216,weal - Google Chrome,5,pc
+2026-03-15 12:31:37.118302,[Phone] Instagram,5,phone
+2026-03-15 12:31:37.800284,weal - Google Chrome,5,pc
+2026-03-15 12:31:42.357079,[Phone] Instagram,5,phone
+2026-03-15 12:31:42.802531,weal - Google Chrome,5,pc
+2026-03-15 12:31:47.635119,[Phone] Instagram,5,phone
+2026-03-15 12:31:47.804417,weal - Google Chrome,5,pc
+2026-03-15 12:31:52.806204,weal - Google Chrome,5,pc
+2026-03-15 12:31:52.927590,[Phone] Instagram,5,phone
+2026-03-15 12:31:57.807353,weal - Google Chrome,5,pc
+2026-03-15 12:31:58.189334,[Phone] Instagram,5,phone
+2026-03-15 12:32:02.808591,weal - Google Chrome,5,pc
+2026-03-15 12:32:03.438880,[Phone] Instagram,5,phone
+2026-03-15 12:32:07.810269,weal - Google Chrome,5,pc
+2026-03-15 12:32:08.709266,[Phone] Instagram,5,phone
+2026-03-15 12:32:12.814540,weal - Google Chrome,5,pc
+2026-03-15 12:32:13.973988,[Phone] Instagram,5,phone
+2026-03-15 12:32:17.816881,WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:19.227688,[Phone] Instagram,5,phone
+2026-03-15 12:32:22.818304,WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:24.479336,[Phone] Instagram,5,phone
+2026-03-15 12:32:27.820585,WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:31.793754,[Phone] Instagram,5,phone
+2026-03-15 12:32:32.822709,WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:37.009449,[Phone] Instagram,5,phone
+2026-03-15 12:32:37.824508,WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:42.241220,[Phone] Instagram,5,phone
+2026-03-15 12:32:42.826285,(1) WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:47.499298,[Phone] Instagram,5,phone
+2026-03-15 12:32:47.827769,(1) WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:52.754423,[Phone] Instagram,5,phone
+2026-03-15 12:32:52.829913,(1) WhatsApp - Google Chrome,5,pc
+2026-03-15 12:32:57.831679,"Live Formula 1 Streaming in India - Races, Results & Highlights | FanCode - Google Chrome",5,pc
+2026-03-15 12:32:58.006163,[Phone] Instagram,5,phone
+2026-03-15 12:33:02.834638,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:03.280448,[Phone] Instagram,5,phone
+2026-03-15 12:33:07.837616,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:08.516570,[Phone] Instagram,5,phone
+2026-03-15 12:33:12.840207,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:13.798354,[Phone] Instagram,5,phone
+2026-03-15 12:33:17.843985,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:19.096945,[Phone] Instagram,5,phone
+2026-03-15 12:33:22.845633,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:24.348294,[Phone] Instagram,5,phone
+2026-03-15 12:33:27.847093,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:29.621267,[Phone] Instagram,5,phone
+2026-03-15 12:33:32.848424,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:36.924736,[Phone] Instagram,5,phone
+2026-03-15 12:33:37.849521,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:42.167549,[Phone] Instagram,5,phone
+2026-03-15 12:33:42.851401,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:47.447869,[Phone] Instagram,5,phone
+2026-03-15 12:33:47.852799,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:52.722298,[Phone] Instagram,5,phone
+2026-03-15 12:33:52.855195,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:57.856618,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:33:57.949383,[Phone] Instagram,5,phone
+2026-03-15 12:34:02.858390,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:34:03.219217,[Phone] Instagram,5,phone
+2026-03-15 12:34:07.862069,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:34:08.420062,[Phone] Instagram,5,phone
+2026-03-15 12:34:12.863688,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:34:13.652076,[Phone] Instagram,5,phone
+2026-03-15 12:34:18.898848,[Phone] Instagram,5,phone
+2026-03-15 12:34:24.145398,[Phone] Instagram,5,phone
+2026-03-15 12:34:29.391866,[Phone] Instagram,5,phone
+2026-03-15 12:34:34.642663,[Phone] Instagram,5,phone
+2026-03-15 12:34:41.964049,[Phone] Instagram,5,phone
+2026-03-15 12:34:47.230081,[Phone] Instagram,5,phone
+2026-03-15 12:34:52.497922,[Phone] Instagram,5,phone
+2026-03-15 12:34:57.757072,[Phone] Instagram,5,phone
+2026-03-15 12:35:02.999689,[Phone] Instagram,5,phone
+2026-03-15 12:35:07.875990,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:08.250939,[Phone] Instagram,5,phone
+2026-03-15 12:35:12.877256,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:13.512506,[Phone] Instagram,5,phone
+2026-03-15 12:35:17.878998,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:18.775653,[Phone] Instagram,5,phone
+2026-03-15 12:35:22.881269,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:24.031756,[Phone] Instagram,5,phone
+2026-03-15 12:35:27.882250,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:29.281534,[Phone] Instagram,5,phone
+2026-03-15 12:35:32.883799,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:34.512013,[Phone] Instagram,5,phone
+2026-03-15 12:35:37.885123,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:39.785312,[Phone] Instagram,5,phone
+2026-03-15 12:35:42.886288,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:47.052842,[Phone] Instagram,5,phone
+2026-03-15 12:35:47.889610,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:52.293155,[Phone] Instagram,5,phone
+2026-03-15 12:35:52.891458,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:35:57.538011,[Phone] Instagram,5,phone
+2026-03-15 12:35:57.892668,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:02.770433,[Phone] Instagram,5,phone
+2026-03-15 12:36:02.895009,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:07.896268,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:08.010264,[Phone] Instagram,5,phone
+2026-03-15 12:36:13.222768,[Phone] Instagram,5,phone
+2026-03-15 12:36:18.433533,[Phone] Instagram,5,phone
+2026-03-15 12:36:22.898424,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:23.705215,[Phone] Instagram,5,phone
+2026-03-15 12:36:27.900309,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:28.974468,[Phone] Instagram,5,phone
+2026-03-15 12:36:32.904113,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:34.196093,[Phone] Instagram,5,phone
+2026-03-15 12:36:37.907557,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:39.420894,[Phone] Instagram,5,phone
+2026-03-15 12:36:42.909150,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:44.664910,[Phone] Instagram,5,phone
+2026-03-15 12:36:47.911310,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 12:36:52.018256,[Phone] Instagram,5,phone
+2026-03-15 12:36:52.913790,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:36:57.300162,[Phone] Instagram,5,phone
+2026-03-15 12:36:57.917198,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:02.565852,[Phone] Instagram,5,phone
+2026-03-15 12:37:02.921200,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:07.833041,[Phone] Instagram,5,phone
+2026-03-15 12:37:07.922218,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:13.000364,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:13.112155,[Phone] Instagram,5,phone
+2026-03-15 12:37:18.001586,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:18.353730,[Phone] Instagram,5,phone
+2026-03-15 12:37:23.002594,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:23.616959,[Phone] Instagram,5,phone
+2026-03-15 12:37:28.003659,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:28.868292,[Phone] Instagram,5,phone
+2026-03-15 12:37:33.005527,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:34.138082,[Phone] Instagram,5,phone
+2026-03-15 12:37:38.006666,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:39.400701,[Phone] Instagram,5,phone
+2026-03-15 12:37:43.007860,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:44.649600,[Phone] Instagram,5,phone
+2026-03-15 12:37:48.009700,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:53.011254,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:37:58.013105,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:03.015026,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:08.016273,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:13.018233,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:18.019585,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:23.020954,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:28.022810,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:31.013512,[Phone] Instagram,5,phone
+2026-03-15 12:38:33.025102,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:36.241834,[Phone] Instagram,5,phone
+2026-03-15 12:38:38.027240,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:41.548965,[Phone] Instagram,5,phone
+2026-03-15 12:38:43.029892,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:46.855390,[Phone] Instagram,5,phone
+2026-03-15 12:38:48.031692,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:52.104080,[Phone] Instagram,5,phone
+2026-03-15 12:38:53.033332,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:58.034378,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:38:59.536240,[Phone] Instagram,5,phone
+2026-03-15 12:39:03.036760,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:04.837528,[Phone] Instagram,5,phone
+2026-03-15 12:39:08.038412,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:10.140787,[Phone] Instagram,5,phone
+2026-03-15 12:39:13.040219,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:15.391975,[Phone] Instagram,5,phone
+2026-03-15 12:39:18.041479,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:20.702800,[Phone] Instagram,5,phone
+2026-03-15 12:39:23.046077,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:25.968602,[Phone] Instagram,5,phone
+2026-03-15 12:39:28.048151,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:31.270047,[Phone] Instagram,5,phone
+2026-03-15 12:39:33.053843,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:36.536950,[Phone] Instagram,5,phone
+2026-03-15 12:39:38.055644,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:41.813824,[Phone] Instagram,5,phone
+2026-03-15 12:39:43.058565,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:47.115102,[Phone] Instagram,5,phone
+2026-03-15 12:39:48.061629,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:52.420573,[Phone] Instagram,5,phone
+2026-03-15 12:39:53.063697,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:39:57.695187,[Phone] Instagram,5,phone
+2026-03-15 12:39:58.065717,x.com - Google Chrome,5,pc
+2026-03-15 12:40:03.067716,(1) Explore / X - Google Chrome,5,pc
+2026-03-15 12:40:05.147299,[Phone] Instagram,5,phone
+2026-03-15 12:40:08.069552,(1) Explore / X - Google Chrome,5,pc
+2026-03-15 12:40:10.468038,[Phone] Instagram,5,phone
+2026-03-15 12:40:13.071368,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:15.743099,[Phone] Instagram,5,phone
+2026-03-15 12:40:18.073067,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:21.033293,[Phone] Instagram,5,phone
+2026-03-15 12:40:23.074793,(1) Posts with replies by deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:26.292786,[Phone] Instagram,5,phone
+2026-03-15 12:40:28.076475,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:31.550590,[Phone] Instagram,5,phone
+2026-03-15 12:40:33.078484,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:36.857822,[Phone] Instagram,5,phone
+2026-03-15 12:40:38.080412,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:42.148646,[Phone] Instagram,5,phone
+2026-03-15 12:40:43.089944,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:40:47.425691,[Phone] Instagram,5,phone
+2026-03-15 12:40:48.091678,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:40:52.693629,[Phone] Instagram,5,phone
+2026-03-15 12:40:53.093489,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:40:57.994719,[Phone] Instagram,5,phone
+2026-03-15 12:40:58.095385,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:03.096845,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:03.237412,[Phone] Instagram,5,phone
+2026-03-15 12:41:08.098982,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:10.580866,[Phone] Instagram,5,phone
+2026-03-15 12:41:13.100843,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:15.897915,[Phone] Instagram,5,phone
+2026-03-15 12:41:18.102086,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:21.182855,[Phone] Instagram,5,phone
+2026-03-15 12:41:23.104133,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:26.471642,[Phone] Instagram,5,phone
+2026-03-15 12:41:28.105976,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:31.713904,[Phone] Instagram,5,phone
+2026-03-15 12:41:33.107524,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:36.993387,[Phone] Instagram,5,phone
+2026-03-15 12:41:38.109153,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:42.248909,[Phone] Instagram,5,phone
+2026-03-15 12:41:43.111141,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:47.515954,[Phone] Instagram,5,phone
+2026-03-15 12:41:48.113064,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:41:52.817170,[Phone] Instagram,5,phone
+2026-03-15 12:41:53.114848,x.com - Google Chrome,5,pc
+2026-03-15 12:41:58.094978,[Phone] Instagram,5,phone
+2026-03-15 12:41:58.116974,(1) Home / X - Google Chrome,5,pc
+2026-03-15 12:42:03.119059,(1) Home / X - Google Chrome,5,pc
+2026-03-15 12:42:03.384140,[Phone] Instagram,5,phone
+2026-03-15 12:42:08.120848,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:42:08.748924,[Phone] Instagram,5,phone
+2026-03-15 12:42:13.124165,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:16.088011,[Phone] Instagram,5,phone
+2026-03-15 12:42:18.126694,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:21.305487,[Phone] Instagram,5,phone
+2026-03-15 12:42:23.128652,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:28.130393,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:33.133291,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:38.135683,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:43.137870,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:48.139863,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:53.141612,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:42:58.143739,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:03.145974,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:08.148005,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:13.150424,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:18.153257,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:23.155129,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:28.158597,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:33.160230,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:38.161772,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:43.164904,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:48.167418,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:53.169421,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:43:58.171180,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:03.172738,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:08.174749,(1) Home / X - Google Chrome,5,pc
+2026-03-15 12:44:13.176834,(1) deni (@fiagirly) / X - Google Chrome,5,pc
+2026-03-15 12:44:18.179786,"(1) deni on X: ""? | Lewis Hamilton: ?Have I got overtake?? ? | Santi: ?Yes, you have.?"" / X - Google Chrome",5,pc
+2026-03-15 12:44:23.181821,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:28.183648,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:33.185514,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:38.187605,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:43.189289,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:48.190895,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:53.193299,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:44:58.195205,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:45:03.197445,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:45:08.199194,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:45:13.201026,"Watch Formula 1 Race F1 HEINEKEN CHINESE GRAND PRIX 2026 Live: Mar 15, 12:30 PM, Standings, Schedule & Videos - Google Chrome",5,pc
+2026-03-15 12:45:18.203761,Unknown,5,pc
+2026-03-15 12:45:23.206825,Unknown,5,pc
+2026-03-15 13:52:01.461330,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:11.136003,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:16.379161,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:19.509748,Task Switching,5,pc
+2026-03-15 13:52:21.628276,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:24.511648,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:52:26.887684,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:29.514069,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:52:32.188586,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:34.516269,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:52:37.528253,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:39.518388,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:52:42.826723,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:44.522210,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:52:48.104260,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:49.524779,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:52:53.392259,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:54.527092,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:52:58.677374,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:52:59.528721,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:53:03.963465,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:04.530745,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:53:09.228027,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:09.532812,Jarvis - File Explorer,5,pc
+2026-03-15 13:53:14.535382,Jarvis-backend - File Explorer,5,pc
+2026-03-15 13:53:18.573512,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:19.537299,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:53:23.868789,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:24.540535,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:53:29.170429,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:29.543303,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:53:34.426105,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:34.545694,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:53:39.546802,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:53:39.812557,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:44.549538,C:\Windows\System32\cmd.exe - pip  install google-generativeai python-dotenv,5,pc
+2026-03-15 13:53:45.101176,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:49.551757,C:\Windows\System32\cmd.exe - pip  install google-generativeai python-dotenv,5,pc
+2026-03-15 13:53:50.337812,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:54.554371,C:\Windows\System32\cmd.exe - pip  install google-generativeai python-dotenv,5,pc
+2026-03-15 13:53:55.702067,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:53:59.557775,C:\Windows\System32\cmd.exe - pip  install google-generativeai python-dotenv,5,pc
+2026-03-15 13:54:01.028155,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:54:06.335673,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:54:11.643451,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:54:16.986407,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:54:46.876228,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:54:56.355789,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:01.654463,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:03.203497,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 13:55:06.947071,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:08.205215,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:55:12.262004,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:13.207093,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:55:17.523574,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:18.209680,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:55:22.800425,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:23.213493,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:55:28.061653,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:28.215040,Snipping Tool Overlay,5,pc
+2026-03-15 13:55:33.218076,ChatGPT - Google Chrome,5,pc
+2026-03-15 13:55:33.498948,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:38.219713,ChatGPT - Google Chrome,5,pc
+2026-03-15 13:55:38.790625,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:43.221986,Unknown,5,pc
+2026-03-15 13:55:44.077391,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:48.223595,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:55:49.358251,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:53.226235,Pillow Installation Issue - Google Chrome,5,pc
+2026-03-15 13:55:54.652833,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:55:58.228760,Pillow Installation Issue - Google Chrome,5,pc
+2026-03-15 13:56:03.230577,Pillow Installation Issue - Google Chrome,5,pc
+2026-03-15 13:56:04.012424,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:08.233034,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 13:56:09.266660,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:13.236214,C:\Windows\System32\cmd.exe - python  -m pip install pillow,5,pc
+2026-03-15 13:56:14.581375,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:18.238079,C:\Windows\System32\cmd.exe - python  -m pip install pillow,5,pc
+2026-03-15 13:56:19.887917,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:23.240243,C:\Windows\System32\cmd.exe - python  -m pip install pillow,5,pc
+2026-03-15 13:56:25.252794,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:28.242701,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 13:56:30.653483,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:33.245305,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:56:35.982139,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:38.247912,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:56:41.339078,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:43.250656,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 13:56:46.614154,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:48.252739,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 13:56:52.023838,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:53.306153,weal - Google Chrome,5,pc
+2026-03-15 13:56:57.315433,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:56:58.308227,weal - Google Chrome,5,pc
+2026-03-15 13:57:02.606801,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:03.310020,You are signed in as weal1 - Google Chrome,5,pc
+2026-03-15 13:57:08.313412,WhatsApp - Google Chrome,5,pc
+2026-03-15 13:57:10.092588,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:13.316097,WhatsApp - Google Chrome,5,pc
+2026-03-15 13:57:15.365617,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:18.317929,Open,5,pc
+2026-03-15 13:57:20.708272,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:23.319834,weal - Google Chrome,5,pc
+2026-03-15 13:57:26.005991,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:28.321376,weal - Google Chrome,5,pc
+2026-03-15 13:57:31.321873,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:33.325043,weal - Google Chrome,5,pc
+2026-03-15 13:57:36.596905,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:38.327710,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:57:41.876372,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:43.329661,WhatsApp - Google Chrome,5,pc
+2026-03-15 13:57:47.156241,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:48.331771,WhatsApp - Google Chrome,5,pc
+2026-03-15 13:57:52.445022,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:53.334207,WhatsApp - Google Chrome,5,pc
+2026-03-15 13:57:57.733841,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:57:58.335769,weal - Google Chrome,5,pc
+2026-03-15 13:58:03.037964,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:03.337480,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:58:08.335757,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:08.339835,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:58:13.341422,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 13:58:15.683386,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:18.343197,Unknown,5,pc
+2026-03-15 13:58:36.454609,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:36.612465,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 13:58:41.615501,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:58:45.906715,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:46.617832,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:58:51.170168,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:51.621206,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:58:56.462403,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:58:56.623154,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:01.625449,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:01.751627,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:06.628019,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:07.018704,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:11.629717,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:12.279319,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:16.631298,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:17.580229,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:21.633614,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 13:59:22.858707,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:26.635610,weal - Google Chrome,5,pc
+2026-03-15 13:59:28.124151,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:31.637580,weal - Google Chrome,5,pc
+2026-03-15 13:59:33.398647,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:36.639837,weal - Google Chrome,5,pc
+2026-03-15 13:59:38.652962,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:41.642097,weal - Google Chrome,5,pc
+2026-03-15 13:59:43.983831,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:46.644058,New Tab - Google Chrome,5,pc
+2026-03-15 13:59:51.496613,[Phone] Dream11sportsguru,5,phone
+2026-03-15 13:59:51.646003,openai - Google Search - Google Chrome,5,pc
+2026-03-15 13:59:56.648306,google ai studio - Google Search - Google Chrome,5,pc
+2026-03-15 13:59:56.803683,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:01.650634,Vibe Coding | Google AI Studio - Google Chrome,5,pc
+2026-03-15 14:00:02.102922,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:06.652918,google ai studio - Google Search - Google Chrome,5,pc
+2026-03-15 14:00:07.530090,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:11.656060,Using Gemini API keys ?|? Google AI for Developers - Google Chrome,5,pc
+2026-03-15 14:00:12.828953,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:16.657771,Using Gemini API keys ?|? Google AI for Developers - Google Chrome,5,pc
+2026-03-15 14:00:18.084556,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:21.659138,Google AI Studio - Google Chrome,5,pc
+2026-03-15 14:00:23.463098,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:26.661468,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 14:00:28.744621,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:31.664234,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 14:00:34.025701,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:36.666061,API keys | Google AI Studio - Google Chrome,5,pc
+2026-03-15 14:00:39.420748,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:00:41.671162,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 14:01:32.667938,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:01:33.901669,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 14:01:38.904036,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 14:01:42.168575,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:01:43.905621,npm run dev,5,pc
+2026-03-15 14:01:47.434862,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:01:48.909117,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 14:01:52.626633,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:01:53.910803,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15 14:01:57.890379,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:01:58.913549,weal - Google Chrome,5,pc
+2026-03-15 14:02:03.203566,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:03.916164,weal - Google Chrome,5,pc
+2026-03-15 14:02:08.590237,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:08.918677,weal - Google Chrome,5,pc
+2026-03-15 14:02:13.871778,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:13.919838,weal - Google Chrome,5,pc
+2026-03-15 14:02:18.921956,weal - Google Chrome,5,pc
+2026-03-15 14:02:19.134463,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:23.924086,weal - Google Chrome,5,pc
+2026-03-15 14:02:24.418645,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:28.926033,weal - Google Chrome,5,pc
+2026-03-15 14:02:29.698124,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:33.928609,weal - Google Chrome,5,pc
+2026-03-15 14:02:34.992103,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:38.930225,weal - Google Chrome,5,pc
+2026-03-15 14:02:40.270106,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:43.931998,weal - Google Chrome,5,pc
+2026-03-15 14:02:47.622062,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:48.934201,weal - Google Chrome,5,pc
+2026-03-15 14:02:52.886854,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:53.936710,weal - Google Chrome,5,pc
+2026-03-15 14:02:58.183667,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:02:58.938510,weal - Google Chrome,5,pc
+2026-03-15 14:03:03.463964,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:03.941135,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:08.767430,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:08.942908,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:13.944373,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:14.057802,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:18.945967,weal - Google Chrome,5,pc
+2026-03-15 14:03:19.341337,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:23.948032,weal - Google Chrome,5,pc
+2026-03-15 14:03:24.625977,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:28.950522,weal - Google Chrome,5,pc
+2026-03-15 14:03:29.897865,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:33.952446,weal - Google Chrome,5,pc
+2026-03-15 14:03:35.180003,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:38.954551,weal - Google Chrome,5,pc
+2026-03-15 14:03:40.471901,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:43.956551,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:45.779993,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:48.965211,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:53.161991,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:53.967517,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:03:58.435167,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:03:58.969862,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:03.711237,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:03.972299,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:08.974190,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:08.992988,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:13.976044,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:14.275220,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:18.979352,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:19.554428,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:23.981165,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:24.864350,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:28.984009,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:30.129439,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:33.985491,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:35.349484,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:38.987179,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:40.630461,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:43.989021,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:45.901281,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:48.994218,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:51.177991,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:53.996379,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:04:58.489524,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:04:58.998098,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:03.771392,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:04.000013,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:09.003236,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:09.046947,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:14.005159,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:14.345376,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:19.007619,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:19.681892,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:24.011022,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:24.972677,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:29.013607,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:30.248676,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:34.015327,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:35.510945,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:39.017445,weal - Google Chrome,5,pc
+2026-03-15 14:05:40.767516,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:44.019772,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:46.055556,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:49.022361,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:51.325360,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:54.024618,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:05:56.632316,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:05:59.026844,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:03.981148,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:04.029563,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:09.032545,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:09.258820,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:14.034223,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:14.527542,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:19.035783,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:19.787053,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:24.038302,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:25.052971,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:29.040743,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:30.348948,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:34.043673,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:35.630029,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:39.046867,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:40.923362,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:44.051162,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:46.236177,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:49.053748,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:51.528310,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:54.055673,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:06:56.769670,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:06:59.057669,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:01.983837,[Phone] Twitter,5,phone
+2026-03-15 14:07:04.059952,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:09.062830,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:09.285928,[Phone] Twitter,5,phone
+2026-03-15 14:07:14.064887,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:14.532092,[Phone] Twitter,5,phone
+2026-03-15 14:07:19.067125,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:19.775443,[Phone] Twitter,5,phone
+2026-03-15 14:07:24.069630,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:25.048828,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:29.071735,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:30.256807,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:34.073720,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:35.531165,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:39.076196,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:40.782536,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:44.078435,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:46.009813,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:49.080126,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:51.248865,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:54.082394,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:07:56.525437,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:07:59.084287,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:01.804285,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:04.086372,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:07.166108,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:09.089302,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:14.091443,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:14.655189,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:19.093377,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:19.848478,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:24.095667,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:25.075383,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:29.097594,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:30.269244,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:34.100271,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:35.518379,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:39.102130,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:40.715059,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:44.104721,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:45.951399,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:49.106766,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:51.155126,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:54.109434,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:08:56.401184,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:08:59.112408,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:01.637338,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:04.114338,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:06.913105,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:09.116971,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:12.122886,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:14.118981,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:19.121200,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:19.458721,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:24.122814,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:24.665117,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:29.124192,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:29.891889,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:34.126230,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:35.107163,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:39.127926,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:40.328296,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:09:44.131287,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:49.133960,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:50.751696,[Phone] Twitter,5,phone
+2026-03-15 14:09:54.136090,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:09:55.978112,[Phone] Twitter,5,phone
+2026-03-15 14:09:59.139041,weal - Google Chrome,5,pc
+2026-03-15 14:10:01.219490,[Phone] Twitter,5,phone
+2026-03-15 14:10:04.141158,weal - Google Chrome,5,pc
+2026-03-15 14:10:06.451131,[Phone] Twitter,5,phone
+2026-03-15 14:10:09.143957,weal - Google Chrome,5,pc
+2026-03-15 14:10:11.664781,[Phone] Twitter,5,phone
+2026-03-15 14:10:14.146100,weal - Google Chrome,5,pc
+2026-03-15 14:10:16.898438,[Phone] Twitter,5,phone
+2026-03-15 14:10:19.148669,weal - Google Chrome,5,pc
+2026-03-15 14:10:24.151176,weal - Google Chrome,5,pc
+2026-03-15 14:10:24.222644,[Phone] Twitter,5,phone
+2026-03-15 14:10:29.153736,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:10:29.434176,[Phone] Twitter,5,phone
+2026-03-15 14:10:34.156884,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:10:34.669499,[Phone] Twitter,5,phone
+2026-03-15 14:10:39.160196,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:10:39.901663,[Phone] Twitter,5,phone
+2026-03-15 14:10:44.163612,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:10:45.132452,[Phone] Twitter,5,phone
+2026-03-15 14:10:49.165770,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:10:50.362722,[Phone] Twitter,5,phone
+2026-03-15 14:10:54.167099,weal - Google Chrome,5,pc
+2026-03-15 14:10:55.617171,[Phone] Twitter,5,phone
+2026-03-15 14:10:59.168374,weal - Google Chrome,5,pc
+2026-03-15 14:11:00.836993,[Phone] Twitter,5,phone
+2026-03-15 14:11:04.170514,weal - Google Chrome,5,pc
+2026-03-15 14:11:06.049260,[Phone] Twitter,5,phone
+2026-03-15 14:11:09.172589,weal - Google Chrome,5,pc
+2026-03-15 14:11:14.174377,weal - Google Chrome,5,pc
+2026-03-15 14:11:19.176116,weal - Google Chrome,5,pc
+2026-03-15 14:11:24.177723,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:29.180398,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:34.182757,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:39.184932,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:42.584223,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:11:44.187149,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:47.774182,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:11:49.193146,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:52.983372,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:11:54.195324,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:11:58.265045,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:11:59.197288,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:03.546768,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:04.199257,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:08.825513,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:09.200957,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:14.189743,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:14.202553,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:19.203754,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:19.481200,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:24.205442,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:24.792594,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:29.208468,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:12:32.073317,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:37.332850,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:42.609091,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:47.898054,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:53.211026,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:12:58.466056,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:03.748313,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:08.980976,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:14.357535,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:19.555849,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:24.767495,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:30.122463,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:37.413707,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:42.658850,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:44.221913,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:13:47.947983,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:49.224219,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:13:53.241295,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:54.226030,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:13:58.538247,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:13:59.227724,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:03.784234,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:04.229705,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:09.013852,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:09.232389,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:14.223216,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:14.233777,weal - Google Chrome,5,pc
+2026-03-15 14:14:19.235679,weal - Google Chrome,5,pc
+2026-03-15 14:14:19.454977,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:24.237802,weal - Google Chrome,5,pc
+2026-03-15 14:14:24.759189,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:29.241033,weal - Google Chrome,5,pc
+2026-03-15 14:14:29.983453,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:34.247423,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:35.222014,[Phone] Dream11sportsguru,5,phone
+2026-03-15 14:14:39.249430,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:44.251712,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:49.253276,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:54.255487,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:14:59.258007,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:04.261564,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:09.263632,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:14.356372,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:19.358667,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:24.361235,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:29.363836,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:34.393284,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:15:39.395085,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:44.396859,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:49.398587,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:54.400690,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:15:59.402762,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:04.404689,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:09.406311,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:14.407627,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:19.409334,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:24.410925,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:29.412550,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:34.414027,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:39.416237,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:44.418106,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:49.422925,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:16:54.425394,Jarvis-backend - File Explorer,5,pc
+2026-03-15 14:16:59.427368,ml - File Explorer,5,pc
+2026-03-15 14:17:04.429366,ml - File Explorer,5,pc
+2026-03-15 14:17:09.431423,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 14:17:14.536544,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 14:17:19.538752,C:\Windows\System32\cmd.exe - python  train_model.py,5,pc
+2026-03-15 14:17:24.540706,C:\Windows\System32\cmd.exe - python  train_model.py,5,pc
+2026-03-15 14:17:29.542402,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 14:17:34.544721,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 14:17:39.546802,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 14:17:44.549084,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:17:49.550513,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:17:54.555972,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:17:59.557884,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:04.562911,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:09.567528,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:14.569251,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:19.571261,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:24.572911,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:29.574635,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:18:34.576334,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:18:39.578672,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:18:44.581670,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:18:49.583815,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:54.094469,[Phone] Instagram,5,phone
+2026-03-15 14:18:54.585864,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:18:59.335509,[Phone] Instagram,5,phone
+2026-03-15 14:18:59.588033,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:04.590583,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:04.597723,[Phone] Instagram,5,phone
+2026-03-15 14:19:09.592394,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:14.594952,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:15.020923,[Phone] Twitter,5,phone
+2026-03-15 14:19:19.597212,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:20.220560,[Phone] Twitter,5,phone
+2026-03-15 14:19:24.599296,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:25.426264,[Phone] Twitter,5,phone
+2026-03-15 14:19:29.601276,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:30.656711,[Phone] Twitter,5,phone
+2026-03-15 14:19:34.603793,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:35.926623,[Phone] Instagram,5,phone
+2026-03-15 14:19:39.606125,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:41.197190,[Phone] Instagram,5,phone
+2026-03-15 14:19:44.608766,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:46.452284,[Phone] Instagram,5,phone
+2026-03-15 14:19:49.610989,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:54.484777,[Phone] Instagram,5,phone
+2026-03-15 14:19:54.613572,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:59.615771,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:19:59.759926,[Phone] Instagram,5,phone
+2026-03-15 14:20:04.617669,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:05.072014,[Phone] Instagram,5,phone
+2026-03-15 14:20:09.621049,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:10.363880,[Phone] Instagram,5,phone
+2026-03-15 14:20:14.623592,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:15.742936,[Phone] Instagram,5,phone
+2026-03-15 14:20:19.626775,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:20.982553,[Phone] Instagram,5,phone
+2026-03-15 14:20:24.629453,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:29.631793,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:34.633735,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:39.637663,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:44.639682,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:49.641431,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:54.646176,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:20:59.649210,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:04.651927,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:09.654906,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:14.657605,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:19.659239,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:24.660974,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:29.664974,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:34.666839,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:39.668265,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:21:44.771747,(1) WhatsApp - Google Chrome,5,pc
+2026-03-15 14:21:49.773857,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:21:54.779053,weal - Google Chrome,5,pc
+2026-03-15 14:21:59.781477,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:04.783880,weal - Google Chrome,5,pc
+2026-03-15 14:22:09.787982,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:14.790049,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:19.792452,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:24.794245,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:29.796066,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:34.798304,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:39.799442,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:44.801803,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:49.803717,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:54.805466,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:22:59.810669,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:04.812687,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:09.814665,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:14.817161,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:19.942649,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:24.948404,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:29.953868,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:34.956006,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:39.959343,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:44.961335,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:49.962880,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:54.964984,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:23:59.966863,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:04.968424,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:09.970027,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:14.972936,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:19.974748,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:24.978362,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:29.979880,Jarvis Project Technical Breakdown - Google Chrome,5,pc
+2026-03-15 14:24:34.981990,New Tab - Google Chrome,5,pc
+2026-03-15 14:24:39.985459,Claude - Google Chrome,5,pc
+2026-03-15 14:24:44.987852,Claude - Google Chrome,5,pc
+2026-03-15 14:24:49.990341,Claude - Google Chrome,5,pc
+2026-03-15 14:24:54.992539,weal - Google Chrome,5,pc
+2026-03-15 14:24:59.994359,weal - Google Chrome,5,pc
+2026-03-15 14:25:04.996192,weal - Google Chrome,5,pc
+2026-03-15 14:25:09.999768,weal - Google Chrome,5,pc
+2026-03-15 14:25:15.002040,weal - Google Chrome,5,pc
+2026-03-15 14:25:20.004118,weal - Google Chrome,5,pc
+2026-03-15 14:25:25.006552,weal - Google Chrome,5,pc
+2026-03-15 14:25:30.008505,weal - Google Chrome,5,pc
+2026-03-15 14:25:35.010427,weal - Google Chrome,5,pc
+2026-03-15 14:25:40.013301,weal - Google Chrome,5,pc
+2026-03-15 14:25:45.134352,weal - Google Chrome,5,pc
+2026-03-15 14:25:50.137225,weal - Google Chrome,5,pc
+2026-03-15 14:25:55.139228,weal - Google Chrome,5,pc
+2026-03-15 14:26:00.141951,weal - Google Chrome,5,pc
+2026-03-15 14:26:05.143522,Claude - Google Chrome,5,pc
+2026-03-15 14:26:10.150776,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:15.152239,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:20.154319,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:25.157492,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:30.159690,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:35.161759,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:40.165035,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:45.166976,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:50.168722,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:26:55.171002,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:00.172963,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:05.175197,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:10.180437,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:15.183379,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:20.185933,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:25.187813,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:30.190707,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:35.193545,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:40.196289,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:45.198723,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:50.202691,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:27:55.204852,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:00.207525,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:05.210031,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:10.212525,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:15.215828,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:20.218685,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:25.220798,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:30.222615,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:35.224860,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:40.227828,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:45.230300,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:50.233502,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:28:55.238559,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:00.241106,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:05.242868,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:10.245477,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:15.248720,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:20.251454,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:25.256978,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:30.259341,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:35.261993,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:40.263879,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:45.268462,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:50.270555,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:29:55.272643,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:00.276420,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:05.278459,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:10.280892,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:15.285037,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:20.287023,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:30:25.291074,weal - Google Chrome,5,pc
+2026-03-15 14:30:30.292720,weal - Google Chrome,5,pc
+2026-03-15 14:30:35.295306,weal - Google Chrome,5,pc
+2026-03-15 14:30:40.297538,weal - Google Chrome,5,pc
+2026-03-15 14:30:45.300271,weal - Google Chrome,5,pc
+2026-03-15 14:30:50.303030,weal - Google Chrome,5,pc
+2026-03-15 14:30:55.305340,weal - Google Chrome,5,pc
+2026-03-15 14:31:00.308242,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:05.310515,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:10.313216,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:15.316059,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:20.317880,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:25.319757,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:30.322238,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:35.323869,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:40.326656,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:45.328842,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:50.331360,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:31:55.337761,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:00.339658,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:05.342817,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:10.345935,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:15.347967,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:20.352571,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:25.354795,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:30.357366,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:35.361531,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:40.363389,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:45.366204,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:50.371660,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:32:55.374723,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:00.378026,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:05.380388,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:10.383509,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:15.388797,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:20.392171,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:25.393743,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:30.396320,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:35.398957,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:33:40.401374,weal - Google Chrome,5,pc
+2026-03-15 14:33:45.403155,weal - Google Chrome,5,pc
+2026-03-15 14:33:50.405512,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:33:55.408670,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:00.411787,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:05.413739,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:10.416470,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:15.421130,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:20.423141,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:25.428721,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:30.433210,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:35.436566,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 14:34:40.542025,weal - Google Chrome,5,pc
+2026-03-15 14:34:45.544279,weal - Google Chrome,5,pc
+2026-03-15 14:34:50.548924,weal - Google Chrome,5,pc
+2026-03-15 14:34:55.551405,weal - Google Chrome,5,pc
+2026-03-15 14:35:00.554009,weal - Google Chrome,5,pc
+2026-03-15 14:35:05.556265,weal - Google Chrome,5,pc
+2026-03-15 14:35:10.559476,weal - Google Chrome,5,pc
+2026-03-15 14:35:15.561728,weal - Google Chrome,5,pc
+2026-03-15 14:35:20.563929,weal - Google Chrome,5,pc
+2026-03-15 14:35:25.565500,weal - Google Chrome,5,pc
+2026-03-15 14:35:30.567698,weal - Google Chrome,5,pc
+2026-03-15 14:35:35.569510,weal - Google Chrome,5,pc
+2026-03-15 14:36:50.583458,weal - Google Chrome,5,pc
+2026-03-15 14:36:55.585135,weal - Google Chrome,5,pc
+2026-03-15 14:37:00.587375,weal - Google Chrome,5,pc
+2026-03-15 14:37:05.590390,weal - Google Chrome,5,pc
+2026-03-15 14:37:10.593337,weal - Google Chrome,5,pc
+2026-03-15 14:37:15.599692,weal - Google Chrome,5,pc
+2026-03-15 14:37:20.602288,weal - Google Chrome,5,pc
+2026-03-15 14:37:25.605641,weal - Google Chrome,5,pc
+2026-03-15 14:37:30.608289,weal - Google Chrome,5,pc
+2026-03-15 14:37:35.615250,weal - Google Chrome,5,pc
+2026-03-15 14:37:40.617702,weal - Google Chrome,5,pc
+2026-03-15 14:37:45.620249,weal - Google Chrome,5,pc
+2026-03-15 14:37:50.622476,weal - Google Chrome,5,pc
+2026-03-15 14:37:55.625267,weal - Google Chrome,5,pc
+2026-03-15 14:38:00.627600,weal - Google Chrome,5,pc
+2026-03-15 14:38:05.628741,weal - Google Chrome,5,pc
+2026-03-15 14:38:10.630866,weal - Google Chrome,5,pc
+2026-03-15 14:38:15.632543,weal - Google Chrome,5,pc
+2026-03-15 14:38:20.634176,weal - Google Chrome,5,pc
+2026-03-15 14:38:25.636053,weal - Google Chrome,5,pc
+2026-03-15 14:38:30.637821,weal - Google Chrome,5,pc
+2026-03-15 14:38:35.640422,weal - Google Chrome,5,pc
+2026-03-15 14:38:40.671436,weal - Google Chrome,5,pc
+2026-03-15 14:38:45.673037,weal - Google Chrome,5,pc
+2026-03-15 14:38:50.675621,weal - Google Chrome,5,pc
+2026-03-15 14:38:55.677597,weal - Google Chrome,5,pc
+2026-03-15 14:39:00.679222,weal - Google Chrome,5,pc
+2026-03-15 14:39:05.681459,weal - Google Chrome,5,pc
+2026-03-15 14:39:10.684004,weal - Google Chrome,5,pc
+2026-03-15 14:39:15.686088,weal - Google Chrome,5,pc
+2026-03-15 14:39:20.688528,weal - Google Chrome,5,pc
+2026-03-15 14:39:25.690705,weal - Google Chrome,5,pc
+2026-03-15 14:39:30.692992,weal - Google Chrome,5,pc
+2026-03-15 14:39:35.703573,weal - Google Chrome,5,pc
+2026-03-15 14:39:40.706640,weal - Google Chrome,5,pc
+2026-03-15 14:39:45.709070,weal - Google Chrome,5,pc
+2026-03-15 14:39:50.711440,weal - Google Chrome,5,pc
+2026-03-15 14:39:55.713205,weal - Google Chrome,5,pc
+2026-03-15 14:40:00.715122,weal - Google Chrome,5,pc
+2026-03-15 14:40:05.720277,weal - Google Chrome,5,pc
+2026-03-15 14:40:10.722496,weal - Google Chrome,5,pc
+2026-03-15 14:40:15.724857,weal - Google Chrome,5,pc
+2026-03-15 14:40:20.726908,weal - Google Chrome,5,pc
+2026-03-15 14:41:10.733530,weal - Google Chrome,5,pc
+2026-03-15 14:41:15.735241,weal - Google Chrome,5,pc
+2026-03-15 14:41:20.737283,weal - Google Chrome,5,pc
+2026-03-15 14:41:25.740285,weal - Google Chrome,5,pc
+2026-03-15 14:41:30.742076,weal - Google Chrome,5,pc
+2026-03-15 14:41:35.747804,weal - Google Chrome,5,pc
+2026-03-15 14:41:40.749328,weal - Google Chrome,5,pc
+2026-03-15 14:41:45.750838,weal - Google Chrome,5,pc
+2026-03-15 14:41:50.752180,weal - Google Chrome,5,pc
+2026-03-15 14:41:55.753209,weal - Google Chrome,5,pc
+2026-03-15 14:42:00.754980,weal - Google Chrome,5,pc
+2026-03-15 14:42:05.756622,weal - Google Chrome,5,pc
+2026-03-15 14:42:10.758305,weal - Google Chrome,5,pc
+2026-03-15 14:43:20.770145,weal - Google Chrome,5,pc
+2026-03-15 14:43:25.772098,weal - Google Chrome,5,pc
+2026-03-15 14:43:30.773303,weal - Google Chrome,5,pc
+2026-03-15 14:43:35.774698,weal - Google Chrome,5,pc
+2026-03-15 14:43:40.776576,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:43:45.777884,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:43:50.779710,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:43:55.807723,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:00.808906,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:05.810135,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:10.811566,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:15.813464,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:20.815506,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:25.817189,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:30.818783,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:35.820784,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:40.822428,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:45.824479,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:44:50.827329,weal - Google Chrome,5,pc
+2026-03-15 14:44:55.829046,weal - Google Chrome,5,pc
+2026-03-15 14:45:00.830753,weal - Google Chrome,5,pc
+2026-03-15 14:45:05.832292,weal - Google Chrome,5,pc
+2026-03-15 14:45:10.834107,weal - Google Chrome,5,pc
+2026-03-15 14:45:15.835569,weal - Google Chrome,5,pc
+2026-03-15 14:45:20.837633,weal - Google Chrome,5,pc
+2026-03-15 14:45:25.839102,weal - Google Chrome,5,pc
+2026-03-15 14:45:30.840562,weal - Google Chrome,5,pc
+2026-03-15 14:45:35.841784,weal - Google Chrome,5,pc
+2026-03-15 14:45:40.843827,weal - Google Chrome,5,pc
+2026-03-15 14:45:45.846116,weal - Google Chrome,5,pc
+2026-03-15 14:46:05.849424,weal - Google Chrome,5,pc
+2026-03-15 14:46:10.851361,weal - Google Chrome,5,pc
+2026-03-15 14:46:15.853048,weal - Google Chrome,5,pc
+2026-03-15 14:46:20.854827,weal - Google Chrome,5,pc
+2026-03-15 14:46:25.855920,weal - Google Chrome,5,pc
+2026-03-15 14:46:30.857944,weal - Google Chrome,5,pc
+2026-03-15 14:46:35.859698,weal - Google Chrome,5,pc
+2026-03-15 14:46:40.860826,weal - Google Chrome,5,pc
+2026-03-15 14:46:45.863414,weal - Google Chrome,5,pc
+2026-03-15 14:46:50.865108,weal - Google Chrome,5,pc
+2026-03-15 14:46:55.866479,weal - Google Chrome,5,pc
+2026-03-15 14:47:00.867805,weal - Google Chrome,5,pc
+2026-03-15 14:47:05.869255,weal - Google Chrome,5,pc
+2026-03-15 14:47:10.871823,weal - Google Chrome,5,pc
+2026-03-15 14:47:15.872879,weal - Google Chrome,5,pc
+2026-03-15 14:47:20.874193,weal - Google Chrome,5,pc
+2026-03-15 14:47:25.876579,weal - Google Chrome,5,pc
+2026-03-15 14:47:30.878362,weal - Google Chrome,5,pc
+2026-03-15 14:47:35.880710,weal - Google Chrome,5,pc
+2026-03-15 14:47:40.882435,weal - Google Chrome,5,pc
+2026-03-15 14:47:45.884301,weal - Google Chrome,5,pc
+2026-03-15 14:47:50.886219,weal - Google Chrome,5,pc
+2026-03-15 14:47:55.887982,weal - Google Chrome,5,pc
+2026-03-15 14:48:00.889952,weal - Google Chrome,5,pc
+2026-03-15 14:48:05.892121,weal - Google Chrome,5,pc
+2026-03-15 14:48:10.893984,weal - Google Chrome,5,pc
+2026-03-15 14:48:15.894985,weal - Google Chrome,5,pc
+2026-03-15 14:48:20.896212,weal - Google Chrome,5,pc
+2026-03-15 14:48:25.897327,weal - Google Chrome,5,pc
+2026-03-15 14:48:30.898562,weal - Google Chrome,5,pc
+2026-03-15 14:48:35.900600,weal - Google Chrome,5,pc
+2026-03-15 14:48:40.902425,weal - Google Chrome,5,pc
+2026-03-15 14:48:45.904257,weal - Google Chrome,5,pc
+2026-03-15 14:48:50.906061,weal - Google Chrome,5,pc
+2026-03-15 14:48:55.907891,weal - Google Chrome,5,pc
+2026-03-15 14:49:00.910173,weal - Google Chrome,5,pc
+2026-03-15 14:49:05.912046,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:10.913670,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:15.915006,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:20.916896,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:25.918481,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:30.919753,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:35.920933,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:40.922804,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:45.924267,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:50.925947,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:49:55.928635,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:00.930968,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:05.932979,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:10.934356,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:15.936624,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:20.938305,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:25.939770,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:30.941537,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:35.943424,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:40.944962,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:45.946806,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:50.948493,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:50:55.950482,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:51:00.952583,WhatsApp - Google Chrome,5,pc
+2026-03-15 14:51:05.954631,weal - Google Chrome,5,pc
+2026-03-15 14:51:10.956221,weal - Google Chrome,5,pc
+2026-03-15 14:51:15.957876,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:20.959377,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:25.961630,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:30.963527,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:35.965116,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:40.966989,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:45.968532,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:50.969821,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:51:55.972063,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:00.973855,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:05.974971,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:10.975825,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:15.977648,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:20.978795,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:25.980166,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:30.981341,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:35.982783,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:40.984659,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:45.986432,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:50.988208,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:52:55.989964,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:00.991963,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:06.057153,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:11.058718,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:16.060829,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:21.062001,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:26.063316,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:31.064745,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:36.066394,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:41.068194,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:46.070001,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:51.071533,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:53:56.073270,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:01.074636,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:06.076362,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:11.078239,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:16.079736,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:21.081191,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:26.082831,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:31.084807,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:36.086429,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:41.089043,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:46.091099,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:51.092869,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:54:56.094412,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:01.096121,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:06.097687,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:11.099382,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:16.100476,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:21.101779,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:26.103501,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:31.105738,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:36.106886,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:41.108207,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:46.110078,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:51.111768,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:55:56.113765,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:01.115661,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:06.117452,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:11.118947,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:16.120927,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:21.122845,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:26.124311,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:31.126214,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:36.127723,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:41.129783,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:46.131621,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:51.133411,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:56:56.135484,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:01.137220,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:06.138857,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:11.140868,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:16.142925,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:21.144431,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:26.145432,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:31.146573,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:36.147408,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:41.148887,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:46.150688,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:51.152296,Project file upload - Claude - Google Chrome,5,pc
+2026-03-15 14:57:56.154128,weal - Google Chrome,5,pc
+2026-03-15 14:58:01.155429,weal - Google Chrome,5,pc
+2026-03-15 14:58:06.157312,weal - Google Chrome,5,pc
+2026-03-15 14:58:11.161158,New Tab - Google Chrome,5,pc
+2026-03-15 14:58:16.163290,Instagram - Google Chrome,5,pc
+2026-03-15 14:58:21.164508,(3) Instagram - Google Chrome,5,pc
+2026-03-15 14:58:25.798906,[Phone] Instagram,5,phone
+2026-03-15 14:58:26.167755,weal - Google Chrome,5,pc
+2026-03-15 14:58:31.099533,[Phone] Instagram,5,phone
+2026-03-15 14:58:31.169550,weal - Google Chrome,5,pc
+2026-03-15 14:58:36.170878,weal - Google Chrome,5,pc
+2026-03-15 14:58:36.317738,[Phone] Instagram,5,phone
+2026-03-15 14:58:41.173188,weal - Google Chrome,5,pc
+2026-03-15 14:58:41.599961,[Phone] Instagram,5,phone
+2026-03-15 14:58:46.174662,weal - Google Chrome,5,pc
+2026-03-15 14:58:46.872496,[Phone] Instagram,5,phone
+2026-03-15 14:58:51.177117,weal - Google Chrome,5,pc
+2026-03-15 14:58:52.101949,[Phone] Instagram,5,phone
+2026-03-15 14:58:56.178598,weal - Google Chrome,5,pc
+2026-03-15 14:58:59.590949,[Phone] Instagram,5,phone
+2026-03-15 14:59:01.180523,weal - Google Chrome,5,pc
+2026-03-15 14:59:04.861273,[Phone] Instagram,5,phone
+2026-03-15 14:59:06.181707,weal - Google Chrome,5,pc
+2026-03-15 14:59:10.089619,[Phone] Instagram,5,phone
+2026-03-15 14:59:11.183657,weal - Google Chrome,5,pc
+2026-03-15 14:59:15.339211,[Phone] Instagram,5,phone
+2026-03-15 14:59:16.185312,weal - Google Chrome,5,pc
+2026-03-15 14:59:20.605853,[Phone] Instagram,5,phone
+2026-03-15 14:59:21.187041,weal - Google Chrome,5,pc
+2026-03-15 14:59:25.889093,[Phone] Instagram,5,phone
+2026-03-15 14:59:31.146836,[Phone] Instagram,5,phone
+2026-03-15 14:59:36.393066,[Phone] Instagram,5,phone
+2026-03-15 14:59:51.191152,weal - Google Chrome,5,pc
+2026-03-15 14:59:56.192477,weal - Google Chrome,5,pc
+2026-03-15 15:00:01.194276,weal - Google Chrome,5,pc
+2026-03-15 15:00:06.195952,weal - Google Chrome,5,pc
+2026-03-15 15:00:11.198035,weal - Google Chrome,5,pc
+2026-03-15 15:00:16.199524,weal - Google Chrome,5,pc
+2026-03-15 15:00:21.201026,weal - Google Chrome,5,pc
+2026-03-15 15:00:26.202747,weal - Google Chrome,5,pc
+2026-03-15 15:00:31.204601,weal - Google Chrome,5,pc
+2026-03-15 15:00:36.206239,weal - Google Chrome,5,pc
+2026-03-15 15:00:41.207763,weal - Google Chrome,5,pc
+2026-03-15 15:00:46.209664,weal - Google Chrome,5,pc
+2026-03-15 15:00:51.211363,weal - Google Chrome,5,pc
+2026-03-15 15:00:56.213008,weal - Google Chrome,5,pc
+2026-03-15 15:01:01.214647,weal - Google Chrome,5,pc
+2026-03-15 15:01:06.216822,weal - Google Chrome,5,pc
+2026-03-15 15:01:11.218670,weal - Google Chrome,5,pc
+2026-03-15 15:01:16.220087,weal - Google Chrome,5,pc
+2026-03-15 15:01:21.221911,weal - Google Chrome,5,pc
+2026-03-15 15:01:26.224042,weal - Google Chrome,5,pc
+2026-03-15 15:01:31.225835,weal - Google Chrome,5,pc
+2026-03-15 15:01:36.227995,weal - Google Chrome,5,pc
+2026-03-15 15:01:41.229782,weal - Google Chrome,5,pc
+2026-03-15 15:01:46.231302,weal - Google Chrome,5,pc
+2026-03-15 15:01:51.232491,weal - Google Chrome,5,pc
+2026-03-15 15:01:56.234182,weal - Google Chrome,5,pc
+2026-03-15 15:02:01.235866,weal - Google Chrome,5,pc
+2026-03-15 15:02:06.237449,weal - Google Chrome,5,pc
+2026-03-15 15:02:11.239301,weal - Google Chrome,5,pc
+2026-03-15 15:02:16.240841,weal - Google Chrome,5,pc
+2026-03-15 15:02:21.242123,weal - Google Chrome,5,pc
+2026-03-15 15:02:26.243857,weal - Google Chrome,5,pc
+2026-03-15 15:02:31.245539,weal - Google Chrome,5,pc
+2026-03-15 15:02:36.246984,weal - Google Chrome,5,pc
+2026-03-15 15:02:41.248582,weal - Google Chrome,5,pc
+2026-03-15 15:02:46.250104,weal - Google Chrome,5,pc
+2026-03-15 15:02:51.251403,weal - Google Chrome,5,pc
+2026-03-15 15:02:56.252956,weal - Google Chrome,5,pc
+2026-03-15 15:03:01.254257,weal - Google Chrome,5,pc
+2026-03-15 15:03:06.257010,weal - Google Chrome,5,pc
+2026-03-15 15:03:11.258963,weal - Google Chrome,5,pc
+2026-03-15 15:03:16.260713,weal - Google Chrome,5,pc
+2026-03-15 15:03:21.262380,weal - Google Chrome,5,pc
+2026-03-15 15:03:26.263331,weal - Google Chrome,5,pc
+2026-03-15 15:03:31.264543,weal - Google Chrome,5,pc
+2026-03-15 15:03:36.265772,weal - Google Chrome,5,pc
+2026-03-15 15:03:41.267459,weal - Google Chrome,5,pc
+2026-03-15 15:03:46.269421,weal - Google Chrome,5,pc
+2026-03-15 15:03:51.271071,weal - Google Chrome,5,pc
+2026-03-15 15:03:56.272850,weal - Google Chrome,5,pc
+2026-03-15 15:04:01.274392,weal - Google Chrome,5,pc
+2026-03-15 15:04:06.276132,weal - Google Chrome,5,pc
+2026-03-15 15:04:11.303163,weal - Google Chrome,5,pc
+2026-03-15 15:04:16.305420,weal - Google Chrome,5,pc
+2026-03-15 15:04:21.307631,weal - Google Chrome,5,pc
+2026-03-15 15:04:26.309405,weal - Google Chrome,5,pc
+2026-03-15 15:04:31.310472,weal - Google Chrome,5,pc
+2026-03-15 15:04:36.312391,weal - Google Chrome,5,pc
+2026-03-15 15:04:41.314456,weal - Google Chrome,5,pc
+2026-03-15 15:04:46.316380,weal - Google Chrome,5,pc
+2026-03-15 15:04:51.318184,weal - Google Chrome,5,pc
+2026-03-15 15:04:56.320152,weal - Google Chrome,5,pc
+2026-03-15 15:05:01.321753,weal - Google Chrome,5,pc
+2026-03-15 15:05:06.323526,weal - Google Chrome,5,pc
+2026-03-15 15:05:11.325613,weal - Google Chrome,5,pc
+2026-03-15 15:05:16.327492,weal - Google Chrome,5,pc
+2026-03-15 15:05:21.329387,weal - Google Chrome,5,pc
+2026-03-15 15:05:26.331377,weal - Google Chrome,5,pc
+2026-03-15 15:06:46.341351,weal - Google Chrome,5,pc
+2026-03-15 15:06:51.343369,weal - Google Chrome,5,pc
+2026-03-15 15:06:56.345195,weal - Google Chrome,5,pc
+2026-03-15 15:07:01.346790,weal - Google Chrome,5,pc
+2026-03-15 15:07:06.348315,weal - Google Chrome,5,pc
+2026-03-15 15:07:11.350600,weal - Google Chrome,5,pc
+2026-03-15 15:07:16.352739,weal - Google Chrome,5,pc
+2026-03-15 15:07:21.354317,weal - Google Chrome,5,pc
+2026-03-15 15:07:26.356059,weal - Google Chrome,5,pc
+2026-03-15 15:07:31.357802,weal - Google Chrome,5,pc
+2026-03-15 15:07:36.359673,weal - Google Chrome,5,pc
+2026-03-15 15:07:41.361718,weal - Google Chrome,5,pc
+2026-03-15 15:08:31.367676,weal - Google Chrome,5,pc
+2026-03-15 15:08:36.368800,weal - Google Chrome,5,pc
+2026-03-15 15:08:41.369821,weal - Google Chrome,5,pc
+2026-03-15 15:08:46.372063,weal - Google Chrome,5,pc
+2026-03-15 15:08:51.373859,weal - Google Chrome,5,pc
+2026-03-15 15:08:56.375539,weal - Google Chrome,5,pc
+2026-03-15 15:09:01.377593,weal - Google Chrome,5,pc
+2026-03-15 15:09:06.379160,weal - Google Chrome,5,pc
+2026-03-15 15:09:11.380800,weal - Google Chrome,5,pc
+2026-03-15 15:09:16.382228,weal - Google Chrome,5,pc
+2026-03-15 15:09:21.437952,weal - Google Chrome,5,pc
+2026-03-15 15:09:26.439579,weal - Google Chrome,5,pc
+2026-03-15 15:09:31.441152,weal - Google Chrome,5,pc
+2026-03-15 15:09:36.442762,weal - Google Chrome,5,pc
+2026-03-15 15:09:41.443780,weal - Google Chrome,5,pc
+2026-03-15 15:09:46.445499,weal - Google Chrome,5,pc
+2026-03-15 15:09:51.446637,weal - Google Chrome,5,pc
+2026-03-15 15:09:56.448217,weal - Google Chrome,5,pc
+2026-03-15 15:10:21.454108,Instagram - Google Chrome,5,pc
+2026-03-15 15:10:26.455650,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:31.457470,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:36.458853,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:41.460404,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:46.462619,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:51.463833,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:10:56.465161,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:11:01.466357,Stories ? Instagram - Google Chrome,5,pc
+2026-03-15 15:11:06.468687,(4) Instagram - Google Chrome,5,pc
+2026-03-15 15:11:11.470162,(4) Instagram - Google Chrome,5,pc
+2026-03-15 15:11:16.471769,(4) Instagram - Google Chrome,5,pc
+2026-03-15 15:11:21.473397,weal - Google Chrome,5,pc
+2026-03-15 15:11:26.475227,weal - Google Chrome,5,pc
+2026-03-15 15:11:31.476911,weal - Google Chrome,5,pc
+2026-03-15 15:11:36.478554,weal - Google Chrome,5,pc
+2026-03-15 15:11:41.480316,weal - Google Chrome,5,pc
+2026-03-15 15:11:46.481964,weal - Google Chrome,5,pc
+2026-03-15 15:11:51.483773,weal - Google Chrome,5,pc
+2026-03-15 15:11:57.081449,Unknown,5,pc
+2026-03-15 15:12:02.133490,weal - Google Chrome,5,pc
+2026-03-15 15:12:07.178394,weal - Google Chrome,5,pc
+2026-03-15 15:12:12.180630,You are signed in as weal1 - Google Chrome,5,pc
+2026-03-15 15:12:17.184712,Task Switching,5,pc
+2026-03-15 15:12:22.186642,weal - Google Chrome,5,pc
+2026-03-15 15:12:27.189237,Google Chrome,5,pc
+2026-03-15 15:12:32.190769,Google Chrome,5,pc
+2026-03-15 15:12:37.191726,Google Chrome,5,pc
+2026-03-15 15:12:42.195451,Unknown,5,pc
+2026-03-15 15:12:47.198104,New Tab - Google Chrome,5,pc
+2026-03-15 15:12:52.201263,WhatsApp Web - Google Chrome,5,pc
+2026-03-15 15:12:57.203007,weal - Google Chrome,5,pc
+2026-03-15 15:13:02.205290,weal - Google Chrome,5,pc
+2026-03-15 15:13:07.206945,WhatsApp - Google Chrome,5,pc
+2026-03-15 15:13:12.208648,weal - Google Chrome,5,pc
+2026-03-15 15:13:17.212747,New Tab - Google Chrome,5,pc
+2026-03-15 15:13:22.214426,(884) YouTube - Google Chrome,5,pc
+2026-03-15 15:13:27.216284,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:32.217718,.env - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:37.219772,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:42.221625,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:47.223386,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:52.225359,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:13:57.227291,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:14:02.228302,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:14:07.229417,weal - Google Chrome,5,pc
+2026-03-15 15:14:12.231164,weal - Google Chrome,5,pc
+2026-03-15 15:14:17.232828,weal - Google Chrome,5,pc
+2026-03-15 15:14:22.234788,weal - Google Chrome,5,pc
+2026-03-15 15:14:27.236462,weal - Google Chrome,5,pc
+2026-03-15 15:14:32.238428,weal - Google Chrome,5,pc
+2026-03-15 15:14:37.239843,weal - Google Chrome,5,pc
+2026-03-15 15:14:42.241290,weal - Google Chrome,5,pc
+2026-03-15 15:14:47.243193,weal - Google Chrome,5,pc
+2026-03-15 15:14:52.245462,weal - Google Chrome,5,pc
+2026-03-15 15:14:57.247446,weal - Google Chrome,5,pc
+2026-03-15 15:15:02.248697,weal - Google Chrome,5,pc
+2026-03-15 15:15:07.250391,weal - Google Chrome,5,pc
+2026-03-15 15:15:12.252039,weal - Google Chrome,5,pc
+2026-03-15 15:18:47.274590,(884) YouTube - Google Chrome,5,pc
+2026-03-15 15:18:52.276197,weal - Google Chrome,5,pc
+2026-03-15 15:18:57.278665,weal - Google Chrome,5,pc
+2026-03-15 15:19:02.280211,weal - Google Chrome,5,pc
+2026-03-15 15:19:07.281948,weal - Google Chrome,5,pc
+2026-03-15 15:19:12.283691,weal - Google Chrome,5,pc
+2026-03-15 15:19:17.284953,weal - Google Chrome,5,pc
+2026-03-15 15:19:22.286588,weal - Google Chrome,5,pc
+2026-03-15 15:19:27.288058,weal - Google Chrome,5,pc
+2026-03-15 15:19:32.289615,weal - Google Chrome,5,pc
+2026-03-15 15:19:37.291010,weal - Google Chrome,5,pc
+2026-03-15 15:19:42.292648,weal - Google Chrome,5,pc
+2026-03-15 15:19:47.294848,weal - Google Chrome,5,pc
+2026-03-15 15:19:52.297069,weal - Google Chrome,5,pc
+2026-03-15 15:19:57.298629,weal - Google Chrome,5,pc
+2026-03-15 15:20:57.305407,weal - Google Chrome,5,pc
+2026-03-15 15:21:02.308022,weal - Google Chrome,5,pc
+2026-03-15 15:21:07.309701,weal - Google Chrome,5,pc
+2026-03-15 15:21:12.310756,weal - Google Chrome,5,pc
+2026-03-15 15:21:17.311892,weal - Google Chrome,5,pc
+2026-03-15 15:21:22.313289,weal - Google Chrome,5,pc
+2026-03-15 15:21:27.315067,weal - Google Chrome,5,pc
+2026-03-15 15:21:32.316611,weal - Google Chrome,5,pc
+2026-03-15 15:21:37.318891,weal - Google Chrome,5,pc
+2026-03-15 15:21:42.320868,weal - Google Chrome,5,pc
+2026-03-15 15:21:47.322465,weal - Google Chrome,5,pc
+2026-03-15 15:21:52.323743,weal - Google Chrome,5,pc
+2026-03-15 15:21:57.324773,weal - Google Chrome,5,pc
+2026-03-15 15:22:02.325678,weal - Google Chrome,5,pc
+2026-03-15 15:22:07.326878,weal - Google Chrome,5,pc
+2026-03-15 15:22:12.327958,weal - Google Chrome,5,pc
+2026-03-15 15:22:17.329138,weal - Google Chrome,5,pc
+2026-03-15 15:22:22.330506,weal - Google Chrome,5,pc
+2026-03-15 15:22:27.332263,weal - Google Chrome,5,pc
+2026-03-15 15:22:32.334195,weal - Google Chrome,5,pc
+2026-03-15 15:22:37.335800,weal - Google Chrome,5,pc
+2026-03-15 15:22:42.338160,weal - Google Chrome,5,pc
+2026-03-15 15:22:47.339489,weal - Google Chrome,5,pc
+2026-03-15 15:22:52.340509,weal - Google Chrome,5,pc
+2026-03-15 15:22:57.342474,weal - Google Chrome,5,pc
+2026-03-15 15:23:02.345210,weal - Google Chrome,5,pc
+2026-03-15 15:23:07.346834,weal - Google Chrome,5,pc
+2026-03-15 15:23:12.348551,weal - Google Chrome,5,pc
+2026-03-15 15:23:17.349632,weal - Google Chrome,5,pc
+2026-03-15 15:23:22.353620,weal - Google Chrome,5,pc
+2026-03-15 15:23:27.355590,weal - Google Chrome,5,pc
+2026-03-15 15:23:32.357266,weal - Google Chrome,5,pc
+2026-03-15 15:23:37.359258,weal - Google Chrome,5,pc
+2026-03-15 15:23:42.360965,weal - Google Chrome,5,pc
+2026-03-15 15:23:47.362644,weal - Google Chrome,5,pc
+2026-03-15 15:23:52.364291,weal - Google Chrome,5,pc
+2026-03-15 15:23:57.365637,weal - Google Chrome,5,pc
+2026-03-15 15:24:02.367230,weal - Google Chrome,5,pc
+2026-03-15 15:24:07.368731,weal - Google Chrome,5,pc
+2026-03-15 15:24:12.370465,weal - Google Chrome,5,pc
+2026-03-15 15:24:17.372441,weal - Google Chrome,5,pc
+2026-03-15 15:24:22.374396,weal - Google Chrome,5,pc
+2026-03-15 15:24:27.376417,weal - Google Chrome,5,pc
+2026-03-15 15:24:32.378150,weal - Google Chrome,5,pc
+2026-03-15 15:24:37.380013,weal - Google Chrome,5,pc
+2026-03-15 15:24:42.381914,weal - Google Chrome,5,pc
+2026-03-15 15:24:47.382917,weal - Google Chrome,5,pc
+2026-03-15 15:24:52.384576,weal - Google Chrome,5,pc
+2026-03-15 15:24:57.386687,weal - Google Chrome,5,pc
+2026-03-15 15:25:02.388342,weal - Google Chrome,5,pc
+2026-03-15 15:25:07.390463,weal - Google Chrome,5,pc
+2026-03-15 15:25:12.392195,weal - Google Chrome,5,pc
+2026-03-15 15:25:17.394016,weal - Google Chrome,5,pc
+2026-03-15 15:25:22.395867,weal - Google Chrome,5,pc
+2026-03-15 15:25:27.397630,weal - Google Chrome,5,pc
+2026-03-15 15:25:32.399465,weal - Google Chrome,5,pc
+2026-03-15 15:25:37.401098,weal - Google Chrome,5,pc
+2026-03-15 15:25:42.402812,weal - Google Chrome,5,pc
+2026-03-15 15:25:47.403760,weal - Google Chrome,5,pc
+2026-03-15 15:25:52.404885,weal - Google Chrome,5,pc
+2026-03-15 15:25:57.406578,weal - Google Chrome,5,pc
+2026-03-15 15:26:02.408451,weal - Google Chrome,5,pc
+2026-03-15 15:26:07.409533,weal - Google Chrome,5,pc
+2026-03-15 15:26:12.411926,weal - Google Chrome,5,pc
+2026-03-15 15:26:17.413901,weal - Google Chrome,5,pc
+2026-03-15 15:26:22.415712,weal - Google Chrome,5,pc
+2026-03-15 15:26:27.417669,weal - Google Chrome,5,pc
+2026-03-15 15:26:32.419842,weal - Google Chrome,5,pc
+2026-03-15 15:26:37.421475,weal - Google Chrome,5,pc
+2026-03-15 15:26:42.423409,weal - Google Chrome,5,pc
+2026-03-15 15:26:47.424433,weal - Google Chrome,5,pc
+2026-03-15 15:26:52.426551,weal - Google Chrome,5,pc
+2026-03-15 15:26:57.428301,weal - Google Chrome,5,pc
+2026-03-15 15:27:02.429871,weal - Google Chrome,5,pc
+2026-03-15 15:27:07.431379,weal - Google Chrome,5,pc
+2026-03-15 15:27:12.432977,weal - Google Chrome,5,pc
+2026-03-15 15:27:17.434604,weal - Google Chrome,5,pc
+2026-03-15 15:27:22.436467,weal - Google Chrome,5,pc
+2026-03-15 15:27:27.438456,weal - Google Chrome,5,pc
+2026-03-15 15:27:32.440507,weal - Google Chrome,5,pc
+2026-03-15 15:27:37.442273,weal - Google Chrome,5,pc
+2026-03-15 15:27:42.444179,weal - Google Chrome,5,pc
+2026-03-15 15:27:47.445819,weal - Google Chrome,5,pc
+2026-03-15 15:27:52.447148,weal - Google Chrome,5,pc
+2026-03-15 15:27:57.449009,weal - Google Chrome,5,pc
+2026-03-15 15:28:02.450705,weal - Google Chrome,5,pc
+2026-03-15 15:28:36.767873,[Phone] Settings,5,phone
+2026-03-15 15:28:37.458778,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15 15:28:42.078866,[Phone] Settings,5,phone
+2026-03-15 15:28:43.153712,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15 15:28:48.155705,Task Switching,5,pc
+2026-03-15 15:28:53.157787,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:28:58.160152,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:03.165120,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:08.168733,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:13.172640,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:18.174620,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:23.178456,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15 15:29:28.180115,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:29:33.184182,Task Switching,5,pc
+2026-03-15 15:29:38.185344,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:29:43.187277,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:29:48.191851,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:29:53.195965,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:29:57.413444,[Phone] WhatsApp,5,phone
+2026-03-15 15:29:58.197996,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:02.646757,[Phone] YouTube,5,phone
+2026-03-15 15:30:03.200010,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:07.837222,[Phone] YouTube,5,phone
+2026-03-15 15:30:08.201896,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:13.088975,[Phone] YouTube,5,phone
+2026-03-15 15:30:13.203895,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:18.206092,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:18.349695,[Phone] YouTube,5,phone
+2026-03-15 15:30:23.207766,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15 15:30:23.521708,[Phone] YouTube,5,phone
+2026-03-15 15:30:28.209761,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:33.211426,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:38.213516,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:43.215496,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:48.217676,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:53.220408,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:30:58.221453,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:03.223487,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:08.307848,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:13.309870,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:18.311525,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:23.313701,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:28.315887,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:33.317312,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:38.319663,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:43.321644,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:48.323453,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:53.325124,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:31:58.326676,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:03.328674,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:08.330316,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:13.331553,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:18.333119,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:23.334898,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:28.336321,phone_tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:33.338750,tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:38.340752,tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:43.342913,tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:48.344484,tracker.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:53.400949,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:32:58.402151,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:03.403383,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:08.405190,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:13.406854,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:18.408112,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:23.409304,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:28.410643,app.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:33.411874,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:38.413294,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:43.417323,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:48.419013,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:53.420755,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:33:58.423645,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:03.425600,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:08.427404,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:13.429854,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:18.431562,train_model.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:23.436063,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:25.732327,[Phone] App,5,phone
+2026-03-15 15:34:28.438461,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:30.929189,[Phone] App,5,phone
+2026-03-15 15:34:33.440518,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:36.180645,[Phone] App,5,phone
+2026-03-15 15:34:38.442493,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:43.444177,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:48.445881,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:53.447646,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:34:58.449533,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:03.451064,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:08.452796,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:13.454500,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:18.456344,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:23.457611,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:28.458971,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:35:33.460346,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:36:43.469435,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:36:48.471256,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:36:53.473092,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:36:58.474794,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:03.476172,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:08.478472,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:13.480010,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:18.481647,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:23.483388,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:28.484621,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:33.486421,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:38.487840,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:43.488916,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:48.490711,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:53.492044,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:37:58.493055,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:38:03.494682,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:38:08.496512,feature_extractor.py - WEAL Hackathon Project - Visual Studio Code,5,pc
+2026-03-15 15:38:13.499762,C:\Windows\System32\cmd.exe - python  phone_tracker.py,5,pc
+2026-03-15T15:43:59.568011,C:\Windows\System32\cmd.exe - python  tracker.py,5,pc
+2026-03-15T15:44:04.570155,C:\Windows\System32\cmd.exe - python  app.py,5,pc
+2026-03-15T15:44:09.571610,C:\Windows\System32\cmd.exe - npm  run dev,5,pc
+2026-03-15T15:44:14.572661,npm run dev,5,pc
+2026-03-15T15:44:19.573737,C:\WINDOWS\system32\cmd.exe ,5,pc
+2026-03-15T15:44:24.574677,weal - Google Chrome,5,pc
+2026-03-15T15:44:29.576135,weal - Google Chrome,5,pc
+2026-03-15T15:44:34.577538,weal - Google Chrome,5,pc
+2026-03-15T15:44:39.579664,weal - Google Chrome,5,pc
+2026-03-15T15:44:44.581302,weal - Google Chrome,5,pc
+2026-03-15T15:44:49.582947,weal - Google Chrome,5,pc
+2026-03-15T15:44:54.584517,weal - Google Chrome,5,pc
+2026-03-15T15:44:59.586261,weal - Google Chrome,5,pc
+2026-03-15T15:45:04.588214,weal - Google Chrome,5,pc
+2026-03-15T15:45:09.590341,weal - Google Chrome,5,pc
+2026-03-15T15:45:14.592048,weal - Google Chrome,5,pc
+2026-03-15T15:45:19.593671,weal - Google Chrome,5,pc
+2026-03-15T15:45:24.596107,weal - Google Chrome,5,pc
+2026-03-15T15:45:29.597755,weal - Google Chrome,5,pc
+2026-03-15T15:49:19.621491,weal - Google Chrome,5,pc
+2026-03-15T15:49:24.622541,weal - Google Chrome,5,pc
+2026-03-15T15:49:29.623588,weal - Google Chrome,5,pc
+2026-03-15T15:49:34.625138,weal - Google Chrome,5,pc
+2026-03-15T15:49:39.627342,weal - Google Chrome,5,pc
+2026-03-15T15:49:44.628622,weal - Google Chrome,5,pc
+2026-03-15T15:49:49.631012,weal - Google Chrome,5,pc
+2026-03-15T15:49:54.632617,weal - Google Chrome,5,pc
+2026-03-15T15:49:59.634064,weal - Google Chrome,5,pc
+2026-03-15T15:50:04.635939,weal - Google Chrome,5,pc
+2026-03-15T15:50:09.637304,weal - Google Chrome,5,pc
+2026-03-15T15:50:14.639030,weal - Google Chrome,5,pc
+2026-03-15T15:50:19.640712,weal - Google Chrome,5,pc
+2026-03-15T15:50:24.642651,weal - Google Chrome,5,pc
+2026-03-15T15:50:29.644261,weal - Google Chrome,5,pc
+2026-03-15T15:50:34.646076,weal - Google Chrome,5,pc
+2026-03-15T15:50:39.647946,weal - Google Chrome,5,pc
+2026-03-15T15:54:29.673771,weal - Google Chrome,5,pc
+2026-03-15T15:54:31.877650,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:34.675595,weal - Google Chrome,5,pc
+2026-03-15T15:54:37.171370,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:39.677475,weal - Google Chrome,5,pc
+2026-03-15T15:54:42.422665,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:44.679014,weal - Google Chrome,5,pc
+2026-03-15T15:54:47.695458,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:49.680645,weal - Google Chrome,5,pc
+2026-03-15T15:54:52.949029,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:54.682651,weal - Google Chrome,5,pc
+2026-03-15T15:54:58.219425,[Phone] Clashroyale,5,phone
+2026-03-15T15:54:59.684342,weal - Google Chrome,5,pc
+2026-03-15T15:55:03.500422,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:04.685990,weal - Google Chrome,5,pc
+2026-03-15T15:55:08.764102,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:09.687506,weal - Google Chrome,5,pc
+2026-03-15T15:55:14.033622,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:14.689213,weal - Google Chrome,5,pc
+2026-03-15T15:55:19.326319,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:19.691285,weal - Google Chrome,5,pc
+2026-03-15T15:55:24.692710,weal - Google Chrome,5,pc
+2026-03-15T15:55:26.878583,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:32.161412,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:37.450190,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:42.656594,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:47.888893,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:53.155982,[Phone] Clashroyale,5,phone
+2026-03-15T15:55:58.460152,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:03.747367,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:09.030249,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:14.367987,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:19.678392,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:24.968455,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:32.348378,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:37.618587,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:42.909592,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:48.157218,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:53.450438,[Phone] Clashroyale,5,phone
+2026-03-15T15:56:58.745004,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:04.017519,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:09.330807,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:14.558255,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:19.846362,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:25.066529,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:30.309479,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:37.677936,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:42.940377,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:48.186232,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:53.466821,[Phone] Clashroyale,5,phone
+2026-03-15T15:57:58.751527,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:04.020890,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:09.316807,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:14.630237,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:19.911887,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:25.187362,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:30.488477,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:35.763046,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:43.142938,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:48.455382,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:53.667212,[Phone] Clashroyale,5,phone
+2026-03-15T15:58:58.938883,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:04.260905,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:09.518745,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:14.788167,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:20.182636,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:24.716883,weal - Google Chrome,5,pc
+2026-03-15T15:59:25.484551,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:29.718774,weal - Google Chrome,5,pc
+2026-03-15T15:59:30.762507,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:34.721011,weal - Google Chrome,5,pc
+2026-03-15T15:59:36.045423,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:39.722940,weal - Google Chrome,5,pc
+2026-03-15T15:59:41.321771,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:44.724946,weal - Google Chrome,5,pc
+2026-03-15T15:59:48.714927,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:49.726738,weal - Google Chrome,5,pc
+2026-03-15T15:59:54.031527,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:54.728332,weal - Google Chrome,5,pc
+2026-03-15T15:59:59.308455,[Phone] Clashroyale,5,phone
+2026-03-15T15:59:59.729541,weal - Google Chrome,5,pc
+2026-03-15T16:00:04.636237,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:04.731122,weal - Google Chrome,5,pc
+2026-03-15T16:00:09.733056,weal - Google Chrome,5,pc
+2026-03-15T16:00:09.895132,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:14.735094,weal - Google Chrome,5,pc
+2026-03-15T16:00:15.150124,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:19.737353,weal - Google Chrome,5,pc
+2026-03-15T16:00:20.450948,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:24.738645,weal - Google Chrome,5,pc
+2026-03-15T16:00:25.663639,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:29.740375,weal - Google Chrome,5,pc
+2026-03-15T16:00:30.925749,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:34.742615,weal - Google Chrome,5,pc
+2026-03-15T16:00:36.217725,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:41.512688,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:46.776845,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:54.157804,[Phone] Clashroyale,5,phone
+2026-03-15T16:00:59.449237,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:04.710646,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:09.945177,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:15.245221,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:20.520977,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:25.765102,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:31.056194,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:36.272965,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:41.532966,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:46.806019,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:52.025186,[Phone] Clashroyale,5,phone
+2026-03-15T16:01:59.371026,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:04.593247,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:09.955222,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:15.216619,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:20.497033,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:25.767583,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:31.067736,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:36.493940,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:41.789964,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:47.091782,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:52.400271,[Phone] Clashroyale,5,phone
+2026-03-15T16:02:57.720841,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:05.070217,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:10.335132,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:15.596829,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:20.895868,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:26.177949,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:31.495000,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:36.776672,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:42.018846,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:47.316455,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:52.589582,[Phone] Clashroyale,5,phone
+2026-03-15T16:03:57.824921,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:03.103008,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:10.468067,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:15.768907,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:21.027471,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:26.317387,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:31.613474,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:34.767193,weal - Google Chrome,5,pc
+2026-03-15T16:04:36.907246,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:39.768947,weal - Google Chrome,5,pc
+2026-03-15T16:04:42.166301,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:44.770668,weal - Google Chrome,5,pc
+2026-03-15T16:04:47.397451,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:49.772527,weal - Google Chrome,5,pc
+2026-03-15T16:04:52.654036,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:54.774550,weal - Google Chrome,5,pc
+2026-03-15T16:04:57.903162,[Phone] Clashroyale,5,phone
+2026-03-15T16:04:59.775692,weal - Google Chrome,5,pc
+2026-03-15T16:05:03.192429,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:04.777594,weal - Google Chrome,5,pc
+2026-03-15T16:05:08.428563,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:09.779783,weal - Google Chrome,5,pc
+2026-03-15T16:05:14.781937,weal - Google Chrome,5,pc
+2026-03-15T16:05:15.784161,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:19.782886,weal - Google Chrome,5,pc
+2026-03-15T16:05:21.021726,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:24.784270,weal - Google Chrome,5,pc
+2026-03-15T16:05:26.300611,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:29.832120,weal - Google Chrome,5,pc
+2026-03-15T16:05:31.592798,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:34.833943,weal - Google Chrome,5,pc
+2026-03-15T16:05:36.825794,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:42.096830,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:47.343015,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:52.553194,[Phone] Clashroyale,5,phone
+2026-03-15T16:05:57.845814,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:03.084990,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:08.378629,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:13.664602,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:21.040700,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:26.364340,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:31.576229,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:36.826274,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:42.118811,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:47.392584,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:52.629750,[Phone] Clashroyale,5,phone
+2026-03-15T16:06:57.915023,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:03.112431,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:08.314525,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:13.635174,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:18.855380,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:26.236570,[Phone] Clashroyale,5,phone
+2026-03-15T16:07:39.846789,weal - Google Chrome,5,pc
+2026-03-15T16:07:44.850002,weal - Google Chrome,5,pc
+2026-03-15T16:07:49.851728,weal - Google Chrome,5,pc
+2026-03-15T16:07:54.853448,weal - Google Chrome,5,pc
+2026-03-15T16:07:59.966950,weal - Google Chrome,5,pc
+2026-03-15T16:08:04.969101,weal - Google Chrome,5,pc
+2026-03-15T16:08:09.971057,weal - Google Chrome,5,pc
+2026-03-15T16:08:14.972998,weal - Google Chrome,5,pc
+2026-03-15T16:08:19.974822,weal - Google Chrome,5,pc
+2026-03-15T16:08:24.976180,weal - Google Chrome,5,pc
+2026-03-15T16:08:29.977025,weal - Google Chrome,5,pc
+2026-03-15T16:08:34.978935,weal - Google Chrome,5,pc
+2026-03-15T16:08:39.980715,weal - Google Chrome,5,pc
+2026-03-15T16:09:14.449922,[Phone] WhatsApp,5,phone
+2026-03-15T16:09:24.891930,[Phone] WhatsApp,5,phone
+2026-03-15T16:09:29.987695,weal - Google Chrome,5,pc
+2026-03-15T16:09:34.989579,weal - Google Chrome,5,pc
+2026-03-15T16:09:39.990919,weal - Google Chrome,5,pc
+2026-03-15T16:09:44.994100,weal - Google Chrome,5,pc
+2026-03-15T16:09:49.995911,weal - Google Chrome,5,pc
+2026-03-15T16:09:54.997195,weal - Google Chrome,5,pc
+2026-03-15T16:09:59.998647,weal - Google Chrome,5,pc
+2026-03-15T16:10:05.000714,weal - Google Chrome,5,pc
+2026-03-15T16:10:10.002753,weal - Google Chrome,5,pc
+2026-03-15T16:10:15.004322,weal - Google Chrome,5,pc
+2026-03-15T16:10:20.006284,weal - Google Chrome,5,pc
+2026-03-15T16:10:25.007735,weal - Google Chrome,5,pc
+2026-03-15T16:11:40.725112,[Phone] Clashroyale,5,phone
+2026-03-15T16:11:45.976852,[Phone] Clashroyale,5,phone
+2026-03-15T16:11:51.201187,[Phone] Clashroyale,5,phone
+2026-03-15T16:11:56.487663,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:01.770408,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:07.076378,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:12.348670,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:17.645809,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:22.943596,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:28.218472,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:33.463771,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:40.831978,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:46.119151,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:51.461114,[Phone] Clashroyale,5,phone
+2026-03-15T16:12:56.726043,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:02.035592,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:07.326687,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:12.590954,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:17.831682,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:23.139559,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:28.452027,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:33.777868,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:39.031519,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:46.370955,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:51.690213,[Phone] Clashroyale,5,phone
+2026-03-15T16:13:56.970974,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:02.267327,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:07.559547,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:12.851788,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:18.198656,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:23.483662,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:28.784601,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:30.041325,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:34.082097,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:35.043769,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:39.353883,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:40.045451,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:44.647659,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:45.047336,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:50.048952,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:51.975257,[Phone] Clashroyale,5,phone
+2026-03-15T16:14:55.051195,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:14:57.260802,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:00.052456,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:02.559630,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:05.054594,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:07.863962,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:10.056416,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:13.141345,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:15.058305,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:18.434890,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:20.060587,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:23.698402,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:25.062788,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:15:28.941287,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:34.243044,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:39.556547,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:44.870631,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:50.164183,[Phone] Clashroyale,5,phone
+2026-03-15T16:15:57.563394,[Phone] Clashroyale,5,phone
+2026-03-15T16:16:02.766955,[Phone] Clashroyale,5,phone
+2026-03-15T16:16:08.057136,[Phone] Clashroyale,5,phone
+2026-03-15T16:17:15.075739,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:20.077408,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:25.078727,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:30.080866,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:35.082861,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:40.084488,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:45.086579,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:50.088408,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:17:55.090169,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:18:00.092171,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:18:05.093858,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:18:10.096021,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:19:25.105794,weal - Google Chrome,5,pc
+2026-03-15T16:19:30.107404,WhatsApp - Google Chrome,5,pc
+2026-03-15T16:19:35.109015,C:\Windows\System32\cmd.exe,5,pc
+2026-03-15T16:19:40.110254,C:\Windows\System32\cmd.exe - python  app.py,5,pc
