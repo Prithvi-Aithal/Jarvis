@@ -5,3 +5,7 @@ frontend/tsc_output.txt
 
 **/.env
 .env
+
+# Python
+__pycache__/
+*.pyc
