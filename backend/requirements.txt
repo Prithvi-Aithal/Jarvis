@@ -1,0 +1,11 @@
+flask
+flask-cors
+pandas
+numpy
+scikit-learn
+joblib
+pillow
+requests
+python-dotenv
+google-generativeai
+pygetwindow; sys_platform == "win32"

@@ -1,6 +1,7 @@
 import subprocess
 import csv
 import os
+import shutil
 import time
 import requests
 from datetime import datetime, date
@@ -8,8 +9,9 @@ import pandas as pd
 
 LOG_FILE = os.path.join(os.path.dirname(__file__), "activity_log.csv")
 
-# FIX: Use the correct ADB path from your PATH setup
-ADB = r"D:\Prithvi\ADB\platform-tools\adb.exe"
+# ADB binary: set the ADB_PATH environment variable, or put adb on your PATH.
+# The last fallback is the path on the original development machine.
+ADB = os.environ.get("ADB_PATH") or shutil.which("adb") or r"D:\Prithvi\ADB\platform-tools\adb.exe"
 
 API_URL = "http://localhost:5000"
 

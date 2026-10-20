@@ -4,6 +4,8 @@ Jarvis watches how you actually use your devices — not how you think you use t
 
 No surveys. No manual logging. Just two background scripts, a Flask API, and a React dashboard that updates in near real time.
 
+Built in 10 hours at **HealthHack 4.0** (WEAL Club, PES University, 2026).
+
 ---
 
 ## ✨ What it does
@@ -71,7 +73,7 @@ No surveys. No manual logging. Just two background scripts, a Flask API, and a R
 - **An Android phone with ADB enabled** (optional) — only needed for phone tracking. USB debugging must be turned on, and the device must be authorized.
 - **A Gemini API key** (optional) — only needed for the screenshot-analysis feature.
 
-> ⚠️ **Note on phone tracking:** `phone_tracker.py` was built and tested against a specific device (Nothing Phone, Nothing OS 15 / Android 15) and parses `dumpsys window` / `dumpsys power` output specific to that OS build. It will likely need adjustment (notably the `mFocusedApp` parsing logic and the hardcoded ADB path) for other Android skins or versions.
+> ⚠️ **Note on phone tracking:** `phone_tracker.py` was built and tested against a specific device (Nothing Phone, Nothing OS 15 / Android 15) and parses `dumpsys window` / `dumpsys power` output specific to that OS build. It will likely need adjustment (notably the `mFocusedApp` parsing logic) for other Android skins or versions.
 
 ---
 
@@ -86,17 +88,11 @@ cd Jarvis
 
 ### 2. Backend setup
 
-The backend doesn't ship a `requirements.txt`, so install the packages it imports directly:
+Install the backend dependencies (`pygetwindow`, used for PC tracking, is only installed on Windows):
 
 ```bash
 cd backend
-pip install flask flask-cors pandas scikit-learn joblib numpy pillow google-generativeai python-dotenv
-```
-
-If you're on Windows and want PC tracking, also install:
-
-```bash
-pip install pygetwindow
+pip install -r requirements.txt
 ```
 
 Create a `.env` file inside `backend/api/` if you want screenshot analysis to work:
@@ -122,7 +118,7 @@ VITE_API_URL=http://localhost:5000
 
 1. Install [Android Platform Tools](https://developer.android.com/tools/releases/platform-tools) (ADB).
 2. Enable **Developer Options → USB Debugging** on your phone.
-3. Open `backend/api/phone_tracker.py` and update the `ADB` constant to point at your local `adb.exe` / `adb` binary path.
+3. Make sure `adb` is on your `PATH`, or set the `ADB_PATH` environment variable to the full path of `adb.exe` / `adb`.
 4. Connect your phone via USB and run `adb devices` to confirm it's authorized.
 
 ---
@@ -202,6 +198,7 @@ This reads `training_data.csv`, trains a fresh `DecisionTreeClassifier` (max dep
 ```
 Jarvis/
 ├── backend/
+│   ├── requirements.txt        # Python dependencies
 │   ├── api/
 │   │   ├── app.py              # Flask API — all routes
 │   │   ├── tracker.py          # PC activity tracker (Windows)
@@ -243,7 +240,7 @@ Jarvis/
 ## 🩹 Known Limitations
 
 - `tracker.py` relies on the Win32 API and only works on Windows.
-- `phone_tracker.py` has device-specific parsing logic (built for Nothing OS 15) and a hardcoded local ADB path — update both for your own setup.
+- `phone_tracker.py` has device-specific parsing logic (built for Nothing OS 15); adjust it for other Android builds, and set `ADB_PATH` if `adb` isn't on your `PATH`.
 - The activity log auto-trims to the last 7 days, so long-term historical trends aren't retained.
 - The chat endpoint (`/api/chat`) is keyword/rule-based, not an LLM — only the screenshot-analysis feature uses Gemini.
 - The training dataset is small; treat stress predictions as directional rather than clinically meaningful.
