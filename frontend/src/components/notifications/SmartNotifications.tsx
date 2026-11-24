@@ -132,42 +132,44 @@ export default function SmartNotifications() {
     setActive(prev => prev.filter(a => a.uid !== uid))
   }
 
-  const fetchAlerts = async () => {
-    try {
-      const res = await fetch(`${API_URL}/api/alerts`)
-      if (!res.ok) return
-      const incoming: Omit<Alert, 'uid'>[] = await res.json()
-      const now = Date.now()
-
-      const fresh: Alert[] = []
-
-      for (const alert of incoming) {
-        const lastShown = cooldowns.current.get(alert.id) ?? 0
-        if (now - lastShown < COOLDOWN_MS) continue  // still in cooldown
-
-        // don't add if already visible
-        const alreadyVisible = active.some(a => a.id === alert.id)
-        if (alreadyVisible) continue
-
-        cooldowns.current.set(alert.id, now)
-        fresh.push({ ...alert, uid: `${alert.id}-${now}` })
-      }
-
-      if (fresh.length === 0) return
-
-      setActive(prev => {
-        const combined = [...fresh, ...prev]
-        return combined.slice(0, MAX_VISIBLE)
-      })
-    } catch {
-      // backend not ready
-    }
-  }
-
   useEffect(() => {
-    fetchAlerts()
+    const fetchAlerts = async () => {
+      try {
+        const res = await fetch(`${API_URL}/api/alerts`)
+        if (!res.ok) return
+        const incoming: Omit<Alert, 'uid'>[] = await res.json()
+        const now = Date.now()
+
+        const fresh: Alert[] = []
+
+        for (const alert of incoming) {
+          const lastShown = cooldowns.current.get(alert.id) ?? 0
+          if (now - lastShown < COOLDOWN_MS) continue  // still in cooldown
+
+          cooldowns.current.set(alert.id, now)
+          fresh.push({ ...alert, uid: `${alert.id}-${now}` })
+        }
+
+        if (fresh.length === 0) return
+
+        setActive(prev => {
+          // don't add alerts that are already on screen
+          const notVisible = fresh.filter(f => !prev.some(a => a.id === f.id))
+          const combined = [...notVisible, ...prev]
+          return combined.slice(0, MAX_VISIBLE)
+        })
+      } catch {
+        // backend not ready
+      }
+    }
+
+    // First poll after the current render; then every POLL_INTERVAL
+    const first = setTimeout(fetchAlerts, 0)
     intervalRef.current = setInterval(fetchAlerts, POLL_INTERVAL)
-    return () => { if (intervalRef.current) clearInterval(intervalRef.current) }
+    return () => {
+      clearTimeout(first)
+      if (intervalRef.current) clearInterval(intervalRef.current)
+    }
   }, [])
 
   return (

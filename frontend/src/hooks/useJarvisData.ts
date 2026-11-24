@@ -24,21 +24,27 @@ export function useJarvisData() {
   const [data, setData] = useState<JarvisData | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
+  const [lastUpdated, setLastUpdated] = useState<Date | null>(null)
 
-  const load = useCallback(() => {
-    setLoading(true)
+  const fetchData = useCallback(() => {
     fetchStress()
-      .then(d => { setData(d); setError(null) })
+      .then(d => { setData(d); setError(null); setLastUpdated(new Date()) })
       .catch((e: Error) => setError(e.message))
       .finally(() => setLoading(false))
   }, [])
 
+  // Manual refresh: show the loading state, then fetch
+  const refetch = useCallback(() => {
+    setLoading(true)
+    fetchData()
+  }, [fetchData])
+
   useEffect(() => {
-    load()
-    const interval = setInterval(load, REFRESH_INTERVAL)
+    fetchData()
+    const interval = setInterval(fetchData, REFRESH_INTERVAL)
     return () => clearInterval(interval)
-  }, [load])
+  }, [fetchData])
 
   // FIX: Return refetch so callers can trigger manual refresh
-  return { data, loading, error, refetch: load }
+  return { data, loading, error, lastUpdated, refetch }
 }

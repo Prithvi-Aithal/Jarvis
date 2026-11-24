@@ -8,7 +8,7 @@ interface Props {
   spotify?: string
 }
 
-export default function TherapyCard({ therapy, message, spotify }: Props) {
+export default function TherapyCard({ therapy, message }: Props) {
   return (
     <GlassCard className="p-6 flex flex-col justify-between h-full">
       <div className="absolute top-0 right-0 w-32 h-32 bg-[#22C55E]/10 rounded-bl-full -z-10 transition-transform duration-500 group-hover:scale-110" />

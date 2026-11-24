@@ -109,8 +109,8 @@ export default function PhoneInsights() {
       const data = await res.json()
       if (!res.ok) throw new Error(data.error || 'Analysis failed')
       setResult(data)
-    } catch (err: any) {
-      setError(err.message || 'Something went wrong. Make sure your Gemini API key is set.')
+    } catch (err) {
+      setError((err instanceof Error && err.message) || 'Something went wrong. Make sure your Gemini API key is set.')
     } finally {
       setLoading(false)
     }

@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { fetchHistory } from '../../api'
 
 export default function ScreenTimeLineChart() {
-  const [data, setData] = useState<any[]>([])
+  const [data, setData] = useState<Record<string, string | number>[]>([])
   const [loading, setLoading] = useState(true)
   // FIX: Track error state so we can show a helpful message instead of an empty chart
   const [error, setError] = useState(false)
@@ -49,9 +49,10 @@ export default function ScreenTimeLineChart() {
                 contentStyle={{ backgroundColor: 'rgba(30, 41, 59, 0.7)', backdropFilter: 'blur(12px)', borderColor: 'rgba(255,255,255,0.1)', borderRadius: '12px', color: '#fff' }}
                 itemStyle={{ color: '#06B6D4' }}
                 // FIX: Format tooltip value to show "Xh Ym" instead of raw minutes
-                formatter={(value: number) => {
-                  const h = Math.floor(value / 60)
-                  const m = Math.round(value % 60)
+                formatter={(value) => {
+                  const minutes = Number(value)
+                  const h = Math.floor(minutes / 60)
+                  const m = Math.round(minutes % 60)
                   return [`${h}h ${m}m`, 'Screen Time']
                 }}
               />

@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { fetchHistory } from '../../api'
 
 export default function CategoryBarChart() {
-  const [data, setData] = useState<any[]>([])
+  const [data, setData] = useState<Record<string, string | number>[]>([])
   const [loading, setLoading] = useState(true)
   // FIX: Track error state — was silently showing empty chart on fetch failure
   const [error, setError] = useState(false)
@@ -51,10 +51,11 @@ export default function CategoryBarChart() {
                 cursor={{ fill: 'rgba(255,255,255,0.05)' }}
                 contentStyle={{ backgroundColor: 'rgba(30, 41, 59, 0.7)', backdropFilter: 'blur(12px)', borderColor: 'rgba(255,255,255,0.1)', borderRadius: '12px', color: '#fff' }}
                 // FIX: Format minutes as "Xh Ym" for readability
-                formatter={(value: number, name: string) => {
-                  const h = Math.floor(value / 60)
-                  const m = Math.round(value % 60)
-                  return [`${h}h ${m}m`, name]
+                formatter={(value, name) => {
+                  const minutes = Number(value)
+                  const h = Math.floor(minutes / 60)
+                  const m = Math.round(minutes % 60)
+                  return [`${h}h ${m}m`, String(name)]
                 }}
               />
               <Legend wrapperStyle={{ paddingTop: '20px', color: '#9CA3AF' }} />

@@ -8,7 +8,10 @@ export default function BreathingAnimation() {
   const [phase, setPhase] = useState('Ready')
   const controls = useAnimationControls()
   const activeRef = useRef(isActive);
-  activeRef.current = isActive;
+
+  useEffect(() => {
+    activeRef.current = isActive;
+  }, [isActive]);
 
   useEffect(() => {
     let timeoutId: number;
@@ -55,7 +58,6 @@ export default function BreathingAnimation() {
     if (isActive) {
       runCycle()
     } else {
-      setPhase('Ready')
       controls.stop()
       controls.set({ scale: 1, backgroundColor: "rgba(6, 182, 212, 0.3)", borderRadius: "50%" })
     }
@@ -85,7 +87,7 @@ export default function BreathingAnimation() {
             style={{ backgroundColor: "rgba(6, 182, 212, 0.3)" }}
             initial={{ scale: 1, borderRadius: "50%" }}
           >
-            <span className="font-semibold text-white tracking-widest text-sm">{phase}</span>
+            <span className="font-semibold text-white tracking-widest text-sm">{isActive ? phase : 'Ready'}</span>
           </motion.div>
        </div>
        

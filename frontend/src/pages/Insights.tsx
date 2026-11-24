@@ -30,7 +30,7 @@ export default function Insights() {
     if (saved) {
       try {
         return JSON.parse(saved)
-      } catch (e) {
+      } catch {
         // ignore parse error and fallback to default
       }
     }

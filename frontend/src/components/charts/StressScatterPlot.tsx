@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react'
 import { fetchHistory } from '../../api'
 
 export default function StressScatterPlot() {
-  const [data, setData] = useState<any[]>([])
+  const [data, setData] = useState<Record<string, string | number>[]>([])
   const [loading, setLoading] = useState(true)
   // FIX: Track error state — was silently showing empty chart on fetch failure
   const [error, setError] = useState(false)
@@ -63,7 +63,8 @@ export default function StressScatterPlot() {
               <Tooltip
                 contentStyle={{ backgroundColor: 'rgba(30, 41, 59, 0.7)', backdropFilter: 'blur(12px)', borderColor: 'rgba(255,255,255,0.1)', borderRadius: '12px', color: '#fff' }}
                 itemStyle={{ color: '#EF4444' }}
-                formatter={(value: number, name: string) => {
+                formatter={(raw, name) => {
+                  const value = Number(raw)
                   if (name === 'Stress') {
                     const label = value === 80 ? 'High' : value === 50 ? 'Medium' : 'Low'
                     return [label, 'Stress']

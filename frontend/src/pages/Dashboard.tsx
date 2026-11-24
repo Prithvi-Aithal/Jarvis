@@ -1,5 +1,4 @@
 import { motion, type Variants } from 'framer-motion'
-import { useState, useEffect } from 'react'
 import { RefreshCw } from 'lucide-react'
 import WellnessScoreCard from '../components/dashboard/WellnessScoreCard'
 import StressGauge from '../components/dashboard/StressGauge'
@@ -27,12 +26,7 @@ function getWellnessLabel(score: number): string {
 }
 
 export default function Dashboard() {
-  const { data, loading, error } = useJarvisData()
-  const [lastUpdated, setLastUpdated] = useState<Date | null>(null)
-
-  useEffect(() => {
-    if (data) setLastUpdated(new Date())
-  }, [data])
+  const { data, loading, error, lastUpdated } = useJarvisData()
 
   const stressValue = data?.stress_level === 'High' ? 80 : data?.stress_level === 'Medium' ? 50 : 25
   const wellnessScore = data ? Math.round(data.features.productive_ratio * 100) : 0
